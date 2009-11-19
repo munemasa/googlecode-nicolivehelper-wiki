@@ -1,4 +1,5 @@
 =Manual=
+<wiki:toc max_depth="2" />
 
 マニュアル用に。<br>
 てきとーにいぢってもらってOKです。
