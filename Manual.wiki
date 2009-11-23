@@ -17,10 +17,21 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
 入力ボックスに sm/nm番号(複数可,sm0sm1sm2 みたいに連結されたままでも、どんなゴミが含まれても、(sm|nm+数字)で認識するので)を入力すると、リクエストキューに追加されます。<br>
 自動再生では、リクエスト→ストックの優先で再生していきます。
 
+*手動再生*
+ 「再生」ボタンを押して手動で再生します
+*自動再生(順次)*
+ リクエスト→ストックの優先で上から順次再生します
+*自動再生(ランダム)*
+ リクエストをランダムに選択して再生、ストックは上から順次再生になります
+
+自動順次のときには先読み指定が効くので、ランダムよりはシャッフルの方が深夜混雑時間帯にはオヌヌメ。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
-
 ==ストック==
+ストック(いわゆる主セレ)。マイリストからインポートできます。<br>
+灰色になっているものは、再生済みのもの、ピンクのものは未再生のものです。
+灰色のものは自動再生の対象になりません。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
