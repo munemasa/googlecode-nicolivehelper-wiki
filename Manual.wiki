@@ -79,6 +79,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 *リクエストに対して自動で運営コメントを返す*
  リクエストの受け付けについて運営コメントします。
 
+*リクエストの新着(7日)制限を行う*
+ 現在時刻から秒単位で7日以内かどうかチェックしています(ぼか生基準と違う)
+
+*ミクオリジナル曲のみを受け付ける*
+ 開発主用。使っても構いませんが、タイトル、タグに「ミク」「オリジナル」がないとリク弾く可能性が高いです。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_basicsettings.png
 
 == Advanced Settings ==
@@ -95,7 +101,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
 === リクエスト制限 ===
-リクエストを受け付ける動画の条件(リク縛り)を指定します。
+リクエストを受け付ける動画の条件(リク縛り)を指定します。<br>
+指定した条件をプリセット名を指定して保存することができます。
+プリセット名を入力し、登録ボタンを押してください。
+プリセットを削除する場合は、削除したいプリセット名を入力し、削除ボタンを押してください。
+
+タグの条件では、空白区切りで OR 条件指定できます。<br>
+*タグ「初音ミク 鏡音リン」を含む* と指定すると、タグに、ミク、リンがある動画を受け付けることができます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
