@@ -1,5 +1,5 @@
 =Manual (version 0.7.3)=
-<wiki:toc max_depth="2" />
+<wiki:toc max_depth="3" />
 
 マニュアル用に。<br>
 てきとーにいぢってもらってOKです。
@@ -27,7 +27,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
 *自動再生(ランダム)*
  リクエストをランダムに選択して再生、ストックは上から順次再生になります
 
-自動順次のときには先読み指定が効くので、ランダムよりはシャッフルの方が深夜混雑時間帯にはオヌヌメ。
+自動順次のときには先読み指定が効くので、ランダムよりはシャッフルの方が深夜混雑時間帯にはオヌヌメ。<br>
+また、リクエスト引き継ぎ用に、コンテキストメニューから残リクエストの動画IDをクリップボードにコピーできます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
