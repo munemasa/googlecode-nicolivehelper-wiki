@@ -33,7 +33,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 灰色になっているものは、再生済みのもの、ピンクのものは未再生のものです。
 灰色のものは自動再生の対象になりません。
 
-コンテキストメニューからは、P名設定などができますが、動画DBにデータがないと効果がありません。(いずれどうにかしよう)
+コンテキストメニューからは、P名設定などができますが、*動画DBにデータがないと効果がありません*。(いずれどうにかしよう)
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
@@ -82,10 +82,26 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_basicsettings.png
 
 == Advanced Settings ==
+
+=== 動画情報 ===
+運営コメントで行う、動画情報をカスタマイズできます。
+使用できるマクロは後述で。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
+
+=== 運営コメント ===
+リクエストを受けるときに応答する運営コメントをカスタマイズできます。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
+
+=== リクエスト制限 ===
+リクエストを受け付ける動画の条件(リク縛り)を指定します。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
+
+=== その他 ===
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
+
 
 == 動画情報用のマクロ ==
 
