@@ -20,6 +20,16 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
 
+==ストック==
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
+
+== 再生履歴 ==
+== コメント ==
+== 動画DB ==
+== 基本設定 ==
+== Advanced Settings ==
+
 == 動画情報用のマクロ ==
 
 ||{title}  ||動画のタイトル||
