@@ -6,6 +6,12 @@
 とはいえ、どうやって編集権限出すんだろう。
 commiterでいいのかな？
 
+== Startup ==
+生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
+
+
 == 動画情報用のマクロ ==
 
 ||{title}  ||動画のタイトル||
