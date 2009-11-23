@@ -7,9 +7,17 @@
 commiterでいいのかな？
 
 == Startup ==
-生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。
+生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。<br>
+どこのページからでもウィンドウを開くことができますが、そのときはリスナーとして動作しています。事前のストック準備などに。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
+
+==リクエスト==
+リスナーコメントで sm/nm番号が流れたときに、リクエストキューに追加されます。<br>
+入力ボックスに sm/nm番号(複数可,sm0sm1sm2 みたいに連結されたままでも、どんなゴミが含まれても、(sm|nm+数字)で認識するので)を入力すると、リクエストキューに追加されます。<br>
+自動再生では、リクエスト→ストックの優先で再生していきます。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
 
 == 動画情報用のマクロ ==
