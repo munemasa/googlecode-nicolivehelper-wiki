@@ -12,6 +12,9 @@ commiterでいいのかな？
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
 
+左下にあるプログレスバーでコンテキストメニューを出すと、
+再生中の動画をマイリスト登録できます。
+
 ==リクエスト==
 リスナーコメントで sm/nm番号が流れたときに、リクエストキューに追加されます。<br>
 入力ボックスに sm/nm番号(複数可,sm0sm1sm2 みたいに連結されたままでも、どんなゴミが含まれても、(sm|nm+数字)で認識するので)を入力すると、リクエストキューに追加されます。<br>
