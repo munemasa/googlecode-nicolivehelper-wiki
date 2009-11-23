@@ -41,8 +41,10 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_basicsettings.png
 
 == Advanced Settings ==
-
-
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 == 動画情報用のマクロ ==
 
