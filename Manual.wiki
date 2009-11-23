@@ -88,7 +88,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
  現在時刻から秒単位で7日以内かどうかチェックしています(ぼか生基準と違う)
 
 *ミクオリジナル曲のみを受け付ける*
- 開発主用。タグからミクオリジナル曲またはミクうたカバー等を判定しています。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
+ 開発主用。タグからミクオリジナル曲またはオリ曲アレンジ等を判定しています。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_basicsettings.png
 
