@@ -33,17 +33,29 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 灰色になっているものは、再生済みのもの、ピンクのものは未再生のものです。
 灰色のものは自動再生の対象になりません。
 
+コンテキストメニューからは、P名設定などができますが、動画DBにデータがないと効果がありません。(いずれどうにかしよう)
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
 == 再生履歴 ==
+ボカロ系生放送のプレイリストスレッドに書き込みやすい体裁で、記録しています。<br>
+動画IDを範囲選択してコンテキストメニューを出すと、マイリスト登録もできます。<br>
+消去ボタンは、再生履歴を消去し、再生済みの動画も、再度、リクエストを受けとるようになります。
+テキストボックスを編集しても、実際の再生履歴は消去されないので、消去ボタンを押して消去してください。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
 
 == コメント ==
+ただのコメントビューア。発言もできます。<br>
+コンテキストメニューから、コテハン設定と、コメントのコピーができます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
 
 == 動画DB ==
+ただの動画DB。条件指定して動画検索を行うことが出来ます。<br>
+動画のDB登録は、マイリストまたは入力ボックスへの入力で行えます。
+既存データの情報更新も登録で行います。データ更新は自動で行っていないため、適度に動画登録経由して情報更新してください。今後、改善される予定です。
+リクエスト送信は、リスナーならコメント送信、主ならリクエストタブ行きです。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 
