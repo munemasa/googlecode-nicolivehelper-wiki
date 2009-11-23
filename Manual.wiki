@@ -113,6 +113,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 タグの条件では、空白区切りで OR 条件指定できます。<br>
 *タグ「初音ミク 鏡音リン」を含む* と指定すると、タグに、ミク、リンがある動画を受け付けることができます。
 
+* 0 と指定した項目は無視します。
+* 投稿日指定では、両方に同一の日時を使用したり、日時の前後関係が矛盾しているときに無視します。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 === その他 ===
