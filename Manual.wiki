@@ -25,10 +25,24 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
 == 再生履歴 ==
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
+
 == コメント ==
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
+
 == 動画DB ==
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
+
 == 基本設定 ==
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_basicsettings.png
+
 == Advanced Settings ==
+
+
 
 == 動画情報用のマクロ ==
 
