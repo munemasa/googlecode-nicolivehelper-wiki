@@ -1,4 +1,4 @@
-=Manual=
+=Manual (version 0.7.3)=
 <wiki:toc max_depth="2" />
 
 マニュアル用に。<br>
