@@ -119,6 +119,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 === その他 ===
+コミュニティやチャンネルの生放送ではないものは、自動で開くことができません(一応、仕様)
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 
