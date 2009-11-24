@@ -25,11 +25,10 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
 *自動再生(ランダム)*
  リクエストをランダムに選択して再生、ストックは上から順次再生になります
 
-自動順次のときには先読み指定が効くので、ランダムよりはシャッフルの方が深夜混雑時間帯にはオヌヌメ。<br>
-また、リクエスト引き継ぎ用に、コンテキストメニューから残リクエストの動画IDをクリップボードにコピーできます。
-
-左下にあるプログレスバーでコンテキストメニューを出すと、
-再生中の動画をマイリスト登録できます。
+  * 自動順次のときには先読み指定が効くので、ランダムよりはシャッフルの方が深夜混雑時間帯にはオヌヌメ。
+  * また、リクエスト引き継ぎ用に、コンテキストメニューから残リクエストの動画IDをクリップボードにコピーできます。
+  * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
+  * 左下にあるプログレスバーでコンテキストメニューを出すと、再生中の動画をマイリスト登録できます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
@@ -39,7 +38,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 灰色になっているものは再生済みのもの、ピンクのものは未再生のものです。
 灰色のものは自動再生の対象になりません。
 
-コンテキストメニューからは、P名設定などができますが、*動画DBにデータがないと効果がありません*。(いずれどうにかしよう)
+  * コンテキストメニューからは、P名設定などができますが、*動画DBにデータがないと効果がありません*。(いずれどうにかしよう)
+  * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
@@ -134,6 +134,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 === その他 ===
 コミュニティやチャンネルの生放送ではないものは、自動で開くことができません(一応、仕様)
+
+コメントログを保存するときは、必ず保存先を指定しておいてください。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
