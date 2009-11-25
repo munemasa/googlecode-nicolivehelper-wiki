@@ -163,7 +163,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 ==Tips and Q&A==
 
-===リクエスト、ストック登録について===
+===リクエスト、ストック登録の可否について===
 
 リクエスト、ストックの登録は、
 たとえ主であろうと、リクエスト制限などの縛りの影響を受けます。
