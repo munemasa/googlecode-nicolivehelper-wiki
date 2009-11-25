@@ -140,7 +140,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 
-== 動画情報用のマクロ ==
+== 運営コメントのマクロ ==
 
 ||{title}  ||動画のタイトル||
 ||{view}   ||再生数        ||
@@ -148,11 +148,15 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 ||{mylist} ||マイリスト数  ||
 ||{mylistrate}||マイリスト率(0.7.3+)||
 ||{date}   ||投稿日時      ||
-||{length} ||再生時間      ||
+||{length} ||再生時間(mm:ssの形式)      ||
 ||{tags}   ||タグ(35文字ちょいで改行される)||
 ||{pname}  ||P名(D名) 不明のときは空文字 ||
 ||{id}     ||動画ID        ||
 ||{additional}||動画個別の追加情報||
+||{requestnum}||リクエスト残数(数字のみ)||
+||{requesttime}||リクエスト総時間 mm:ss の形式で||
+||{stocknum}||ストック残数(未再生のもの)||
+||{stocktime}||ストック総時間(未再生のもの) mm:ss の形式で||
 
 {additional}は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。
 ある動画に「○○発売中！」とか登録しておけば、{additional}の部分が「○○発売中！」に置換されて主コメが行われます。
