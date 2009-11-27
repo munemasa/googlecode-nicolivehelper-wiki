@@ -147,8 +147,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 ||{view}   ||再生数        ||
 ||{comment}||コメント数    ||
 ||{mylist} ||マイリスト数  ||
-||{mylistrate}||マイリスト率(0.7.3+)||
-||{date}   ||投稿日時      ||
+||{mylistrate}||マイリスト率||
+||{date}   ||投稿日時(yy:mm:dd hh:mm:ssの形式)||
 ||{length} ||再生時間(mm:ssの形式)      ||
 ||{tags}   ||タグ(35文字ちょいで改行される)||
 ||{pname}  ||P名(D名) 不明のときは空文字 ||
