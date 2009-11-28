@@ -112,6 +112,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 === 運営コメント ===
 リクエストを受けるときに応答する運営コメントをカスタマイズできます。
 
+  * 空欄は運営コメントなしと同じです。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
 === リクエスト制限 ===
