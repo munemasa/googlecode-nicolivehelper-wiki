@@ -10,6 +10,9 @@
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
 
+==ツールバー==
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
+
 ==リクエスト==
 リスナーコメントで sm/nm番号が流れたときに、リクエストキューに追加されます。複数動画IDが含まれている場合は、先頭の1つが対象です。<br>
 入力ボックスから追加する場合、sm/nm番号(複数可,sm0sm1sm2 みたいに連結されたままでも、どんなゴミが含まれても、(sm|nm+数字)で認識するので)を入力すると、リクエストキューに追加されます。<br>
