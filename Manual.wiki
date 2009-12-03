@@ -39,7 +39,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 灰色になっているものは再生済みのもの、ピンクのものは未再生のものです。
 灰色のものは自動再生の対象になりません。
 
-  * コンテキストメニューからは、P名設定などができますが、*動画DBにデータがないと効果がありません*。(いずれどうにかしよう)
+  * コンテキストメニューからは、P名設定などができます。
   * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
@@ -70,6 +70,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
 動画のDB登録は、マイリストまたは入力ボックスへの入力で行えます。
 既存データの情報更新も登録で行います。データ更新は自動で行っていないため、適度に動画登録経由して情報更新してください。今後、改善される予定です。
 リクエスト送信は、リスナーならコメント送信、主ならリクエストタブ行きです。
+
+  * 検索実行ボタンを押さなくても勝手に検索を始めます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 
