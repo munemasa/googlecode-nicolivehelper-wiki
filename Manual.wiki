@@ -180,7 +180,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
-== プレイリスト(おまけ)
+== プレイリスト(おまけ) ==
 
 生放送に接続していないオフライン時、
 ストックの再生ボタンを押すと、ニコニコ動画でその動画を再生します。<br>
