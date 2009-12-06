@@ -6,7 +6,7 @@
 
 == Startup ==
 生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。<br>
-どこのページからでもウィンドウを開くことができますが、そのときはリスナーとして動作しています。事前のストック準備などに。
+どこのページからでもウィンドウを開くことができますが、そのとき(生放送に接続しないとき)は生主として動作しています。事前のストック準備などに。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nico_startup.png
 
