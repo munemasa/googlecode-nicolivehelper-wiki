@@ -12,7 +12,7 @@
   * 動画DBの検索結果のタグに&があると、その動画がリストアップされないので修正
   * オートコンプリートの情報をウィンドウを閉じるタイミングで保存
   * ストックタブに、動画へのアンカー(リンク)、ニコニコ動画の検索ページのタブ、公開マイリストのタブをドロップすると、ストックに中身が追加される。
-  * Improve the extras playlist function (what feature was improved is secret.)
+  * Improve the extra playlist function (what feature was improved is secret.)
 
 =0.9.1=
   * オフライン使用時のストック再生は、最後まで再生すると先頭に戻ってループ再生するように。
