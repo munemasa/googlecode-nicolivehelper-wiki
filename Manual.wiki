@@ -200,7 +200,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 ||{tags}   ||タグ(35文字ちょいで改行される)||
 ||{pname}  ||P名(D名) 不明のときは空文字 ||
 ||{id}     ||動画ID        ||
-||{description}||動画の詳細(先頭40文字まで)||
+||{description}||動画の説明文(先頭40文字まで)||
 ||{additional}||動画個別の追加情報||
 ||{requestnum}||リクエスト残数(数字のみ)||
 ||{requesttime}||リクエスト総時間 mm:ss の形式で||
