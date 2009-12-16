@@ -69,6 +69,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 灰色のものは自動再生の対象になりません。
 
   * .txtのファイルをストックにドロップすると、テキストファイル内のsm/nm番号を読んでストックに追加します。
+  * テキストファイルだけでなく、動画やマイリスのリンク、検索ページのタブもドロップできます。
   * コンテキストメニューからは、P名設定などができます。
   * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
 
@@ -199,6 +200,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 ||{tags}   ||タグ(35文字ちょいで改行される)||
 ||{pname}  ||P名(D名) 不明のときは空文字 ||
 ||{id}     ||動画ID        ||
+||{description}||動画の詳細(先頭40文字まで)||
 ||{additional}||動画個別の追加情報||
 ||{requestnum}||リクエスト残数(数字のみ)||
 ||{requesttime}||リクエスト総時間 mm:ss の形式で||
