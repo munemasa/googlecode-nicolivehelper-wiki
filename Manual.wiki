@@ -214,6 +214,10 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 ==Tips and Q&A==
 
+===no loginのダイアログが出る===
+ツール、オプション、詳細、ネットワークから、キャッシュを消すといいようです。
+
+
 ===リクエスト、ストック登録に登録されない時===
 
 リクエスト、ストックの登録は、主でもリクエスト制限などの縛りの影響を受けます。
