@@ -231,6 +231,15 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 {additional}は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。
 ある動画に「○○発売中！」とか登録しておけば、{additional}の部分が「○○発売中！」に置換されて主コメが行われます。
 
+==Windows Live Messengerとの連携==
+
+Helperを起動すると、Windows Live Messengerの再生中楽曲表示部分に、生放送の番組名を表示します。
+
+  * 当然Windows専用の機能
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/windowslivemessenger.png
+
+
 ==Tips and Q&A==
 
 ===no loginのダイアログが出る===
