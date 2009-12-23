@@ -1,8 +1,8 @@
 #labels Featured
-=Manual (version 0.9.2)=
+=Manual (version 0.9.3)=
 <wiki:toc max_depth="3" />
 
-0.9.2用簡易マニュアルです。<br>
+0.9.3(まだ未公開)用簡易マニュアルです。<br>
 
 == Startup ==
 生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。<br>
@@ -15,14 +15,14 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
 
 左から、「プレイスタイル」、「リクエスト可否」、「次の動画の再生」、「自動再生の一時停止」、「動画の再生を停止」、「サウンドオンリー」、「メイン、サブ画面の交換(/swap)」、「サブ画面」、「コマンド(ニコ生の各種コマンドリスト)」、「NicoLive Helperのウィンドウリスト」
 
-自動再生では、リクエスト→ストックの優先で再生していきます。
+自動再生では、リクエスト→ストックの優先で再生していきます。つまり、リクエストがあるかぎりはストックは一切再生されませんので、主セレ混ぜてランダム再生したい場合は、リクエストに登録しておく必要があります。
 
 *手動再生*
  「再生」ボタンを押して手動で再生します
 *自動再生(順次)*
  リクエスト→ストックの優先で上から順次再生します
 *自動再生(ランダム)*
- リクエストをランダムに選択して再生、ストックは上から順次再生になります
+ リクエスト→ストックの優先でランダムに再生します
 
   * 自動順次のときには先読み指定が効くので、ランダムよりはシャッフルの方が深夜混雑時間帯にはオヌヌメ。
 
@@ -76,11 +76,22 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
+== エラーリクエスト ==
+
+リクエスト受け付けを(縛り外などで)拒否した動画と、再生時にエラーとなった動画をリストアップします。
+
+  * 白はリクエスト拒否
+  * 灰色は再生エラー
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_errorrequest.png
+
+
 == 再生履歴 ==
 ボカロ系生放送のプレイリストスレッドに書き込みやすい体裁で、記録しています。<br>
 動画IDを範囲選択してコンテキストメニューを出すと、マイリスト登録もできます。<br>
 消去ボタンは、再生履歴を消去し、再生済みの動画も、再度、リクエストを受けとるようになります。
-テキストボックスを編集しても、実際の再生履歴は消去されないので、消去ボタンを押して消去してください。
+
+  * テキストボックスを編集しても *実際の再生履歴は消去されない* ので、消去ボタンを押して消去してください。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
 
@@ -95,6 +106,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
   * 動画IDにカーソルを持って行くと、動画のブログ貼り付け用の表示が左下に現れます。(カーソル追従はできなかった)
   * 「>>開始コメ番-終了コメ番@受付個数」の形式が主コメに含まれていればOK
   * 有効なアンカー<br>「>>35-」コメ番35番以降<br>「>>35-50」コメ番35-50番<br>「>>35-@5」コメ番35番以降、リク5個まで
+  * 「>>35-」で始めたアンカー指定を停止させる手段がなかったな…。
   * アンカー指定でのリク受け付けは「リクエスト拒否」の状態でのみ行われます
   * アンカー指定中は「受け付けました」の自動応答はありません。ただし、受け付けエラーは自動応答します。
 
@@ -109,6 +121,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
   * 検索実行ボタンを押さなくても勝手に検索を始めます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
+
+== 再生中動画のマイリス登録 ==
+
+左下のプログレスバーのコンテキストメニューからマイリス登録を行うことができます。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/add_mylist.png
 
 == 基本設定 ==
 
