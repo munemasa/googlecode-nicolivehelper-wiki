@@ -76,7 +76,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
-== エラーリクエスト ==
+== リク・再生エラー ==
 
 リクエスト受け付けを(縛り外などで)拒否した動画と、再生時にエラーとなった動画をリストアップします。
 
