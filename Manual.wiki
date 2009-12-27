@@ -164,7 +164,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/add_mylist.png
 *ミクオリジナル曲のみを受け付ける*
  開発主用。タグからミクオリジナル曲またはオリ曲アレンジ等を判定しています。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
 
-http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_basicsettings.png
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
 === 動画情報 ===
 運営コメントで行う、動画情報をカスタマイズできます。
