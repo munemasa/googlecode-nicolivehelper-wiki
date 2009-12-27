@@ -207,6 +207,10 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
+== 連続コメント ==
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/continuouscomment.png
+
 == プレイリスト(おまけ) ==
 
 生放送に接続していないオフライン時、
