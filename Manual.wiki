@@ -97,6 +97,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_errorrequest.png
 消去ボタンは、再生履歴を消去し、再生済みの動画も、再度、リクエストを受けとるようになります。
 
   * テキストボックスを編集しても *実際の再生履歴は消去されない* ので、消去ボタンを押して消去してください。
+  * テキスト復旧は、内部の履歴データに基づいて再生履歴テキストを復旧します。<br>番組名は放送IDは記録されていないので、動画IDとタイトルのみの復旧になります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
 
@@ -212,6 +213,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 == 連続コメント ==
+
+  * 運営コメント設定で指定されたフォルダにあるテキストファイル(.txt)をリストメニューで選択して、テキストボックスに読み込むことが出来ます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/continuouscomment.png
 
