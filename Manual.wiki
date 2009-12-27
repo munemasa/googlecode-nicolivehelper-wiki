@@ -260,6 +260,11 @@ Helperを起動すると、Windows Live Messengerの再生中楽曲表示部分�
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/windowslivemessenger.png
 
+==JSONファイルについて==
+
+*{ "sm9": value, "sm10": value, "sm11": value }*<br>
+のように、動画IDをキーに値が設定されているオブジェクトのJSONです。<br>
+このリストにない動画の値は *0* になります。
 
 ==Tips and Q&A==
 
