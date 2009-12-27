@@ -171,6 +171,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 運営コメントで行う、動画情報をカスタマイズできます。
 使用できるマクロは後述で。
 
+  * コメ欄に動画IDを直接入力して再生したとき、動画情報を主コメしない設定は、ジングル動画の情報も出なくなります。(ジングル再生が動画ID直接入力再生と同じなので)
+
   * JSONファイルのあるURI(URL)にある先の、ファイルの中身は { "sm9": 値, "sm10": 値 } となっているものです。<br>ミクノ度の場合は、http://mikunopop.info/play/count.json など。
   * file:// でお使いのPC内のファイルも指定できます。
   * 動画情報のコメント{json}マクロで置換されます。
