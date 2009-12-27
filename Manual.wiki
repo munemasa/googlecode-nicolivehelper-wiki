@@ -170,6 +170,10 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 運営コメントで行う、動画情報をカスタマイズできます。
 使用できるマクロは後述で。
 
+  * JSONファイルのあるURI(URL)にある先の、ファイルの中身は { "sm9": 値, "sm10": 値 } となっているものです。<br>ミクノ度の場合は、http://mikunopop.info/play/count.json など。
+  * file:// でお使いのPC内のファイルも指定できます。
+  * 動画情報のコメント{json}マクロで置換されます。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
 === 運営コメント ===
@@ -236,6 +240,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/continuouscomment.png
 ||{requesttime}||リクエスト総時間 mm:ss の形式で||
 ||{stocknum}||ストック残数(未再生のもの)||
 ||{stocktime}||ストック総時間(未再生のもの) mm:ss の形式で||
+||{json}||動画情報設定で指定した先のJSONファイルにある情報と置換します||
 
 {additional}は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。
 ある動画に「○○発売中！」とか登録しておけば、{additional}の部分が「○○発売中！」に置換されて主コメが行われます。
