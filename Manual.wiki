@@ -133,7 +133,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/add_mylist.png
 
-== 基本設定 ==
+== NicoLive Helper Settings ==
+
+=== 基本設定 ===
 
 *接続時にジングルを再生する*
  Helper起動時、放送開始から3分未満、まだ何も再生されていない時に、5秒待ってから、指定の動画を再生します。
@@ -163,8 +165,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/add_mylist.png
  開発主用。タグからミクオリジナル曲またはオリ曲アレンジ等を判定しています。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_basicsettings.png
-
-== Advanced Settings ==
 
 === 動画情報 ===
 運営コメントで行う、動画情報をカスタマイズできます。
