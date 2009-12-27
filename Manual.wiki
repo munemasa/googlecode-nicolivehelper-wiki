@@ -183,6 +183,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
   * 空欄は運営コメントなしと同じです。
   * リクエスト制限によるリク拒否は、その理由を必ず主コメします。<br>(基本設定で「リクエストに対して自動で運営コメントを返す」にチェックしていない場合は除く)
+  * 「連続コメント用テキストファイル保存先」は、連続コメントウィンドウでリストアップされたい.txtファイルのあるフォルダを指定します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
