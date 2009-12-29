@@ -272,6 +272,15 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/windowslivemessenger.
 ツール、オプション、詳細、ネットワークから、キャッシュを消すといいようです。<br>
 キャッシュバイパスの指定してあるんですけどね…。
 
+===ウィンドウ座標をデフォルトに戻す===
+
+比較的中級者～上級者向けの操作が必要なので要注意。
+
+  # ロケーションバーで about:config
+  # extensions.nicolivehelper.window-pos を探す
+  # リセット
+
+
 ===最前面表示にならない===
 
 Windowsでのみ効果があるようです。
