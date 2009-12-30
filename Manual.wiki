@@ -1,5 +1,5 @@
 #labels Featured
-=Manual (version 0.9.5)編集中=
+=Manual (version 0.9.5)=
 <wiki:toc max_depth="3" />
 
 0.9.5用 *簡易* マニュアルです。<br>
