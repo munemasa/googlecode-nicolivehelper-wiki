@@ -213,6 +213,14 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
+=== P名ホワイトリスト ===
+
+  * P名として認識したい文字列を、1行につき 1つずつ記入して、保存ボタンを押してください。
+  * 内蔵のP名リストと併合して使用します。
+  * Helper再起動後、有効になります。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_pnamewhitelist.png
+
 === その他 ===
 ユーザー生放送ではないものは、自動で開くことができません(一応、仕様)
 
