@@ -138,6 +138,14 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/add_mylist.png
 
+== 内蔵ブラウザ ==
+そういえば、右ペインにブラウザがあったのを忘れていました。
+
+  * 開くボタンで生放送のページを開きます
+  * あとは通常のブラウザと同じようにリンクを辿って他のページに行くことも出来ます
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browser.png
+
 == NicoLive Helper Settings ==
 
 === 基本設定 ===
