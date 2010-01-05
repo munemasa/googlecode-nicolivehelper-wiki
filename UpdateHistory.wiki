@@ -1,5 +1,5 @@
+#summary 更新内容のメモ書き
 #labels Featured
-#Update Notes.
 
 更新内容のメモ書き用。
 <wiki:toc max_depth="1" />
