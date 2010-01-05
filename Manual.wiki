@@ -1,4 +1,6 @@
+#summary 簡易マニュアル
 #labels Featured
+
 =Manual (version 0.9.5)=
 <wiki:toc max_depth="3" />
 
