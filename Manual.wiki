@@ -87,6 +87,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
+===リクエスト・ストック内検索===
+
   * リクエスト、ストックは、CTRL+F で動画検索をすることができます。
   * F3 で次を検索します。
 
