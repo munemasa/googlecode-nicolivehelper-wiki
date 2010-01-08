@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 0.9.5)=
+=Manual (version 0.9.6 まだ未公開)=
 <wiki:toc max_depth="3" />
 
-0.9.5用 *簡易* マニュアルです。<br>
+0.9.6用 *簡易* マニュアルです。<br>
 
 == Startup ==
 生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。<br>
@@ -86,6 +86,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
   * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
+
+  * リクエスト、ストックは、CTRL+F で動画検索をすることができます。
+  * F3 で次を検索します。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/searchfromrequeststock.png
+
 
 == リク・再生エラー ==
 
