@@ -176,7 +176,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browser.png
  30分枠に収まるように動画を選択して再生します。
 
 *ただし、ロスタイムを考慮し、若干の枠オーバーを許容する*
- ロスタイム90秒あるものとして扱います。
+ ロスタイム75秒あるものとして扱います。
 
 *次の動画を再生するまでの待ち時間*
  動画と動画の間の待ち時間を入力します。
@@ -193,8 +193,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browser.png
 *1枠1人あたりのリクエスト受付数*
  １枠に1人あたりいくつのリクエストを許可するかを指定します。0は制限なしです。
 
-*ミクオリジナル曲のみを受け付ける*
- 開発主用。タグからミクオリジナル曲またはオリ曲アレンジ等を判定しています。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
+*初音ミクのライブモード(開発主用)*
+ 初音ミクが歌うオリジナル曲やPVを受け付けます。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
