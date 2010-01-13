@@ -14,6 +14,7 @@
   * コマンドメニューにウィンドウサイズを初期状態に戻すを追加。<br>ただし真の初期値にはならず、ウィンドウ全体のサイズのみ(window.resizeToの仕様で)。
   * D名除外リストに～EDが入ってなかったので追加。(DxM生見るまで気づかなかった…)
   * マイリスト追加メニュー作成処理を整理した。
+  * 動画情報コメント(運営コメント)で、{=expression} を追加。<br>マクロでサポートしていない任意の値を数式で表現してコメントできる。<br>例、ぼからん補正値:{=(info.mylist_counter+info.view_counter)/(info.mylist_counter+info.view_counter+info.comment_num)}<br>聴き入り度:{=info.view_counter/info.comment_num}<br>三項演算子を駆使すれば条件分岐なども出来たりして。
 
 =0.9.6=
   * ステータスバーのリク数、ストック残数のところで、ツールチップにリクエスト総時間の情報を表示するように。
