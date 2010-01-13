@@ -307,6 +307,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
   * {=1+1} と書くと、2.0 と置換します。
   * {=info.mylistcomment?info.mylistcomment:"マイリストコメントはありません"} と書くと、<br>マイリストコメントがあればそれを、なければマイリストコメントはありませんと主コメする。
   * {=info.view_counter/info.comment_num} だとボカロ系で見られる聴き入り度。
+  * 三項演算子を駆使すれば条件分岐もOK。
   * javascriptの解釈できる式であればいいので、上級者ユーザーはnicolivehelper.jsを読みつついろいろ試してみるといいかも。
 
 使用できる動画情報の例：
