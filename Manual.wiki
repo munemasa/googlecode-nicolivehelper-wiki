@@ -299,6 +299,33 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 
   * {additional}は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。<br>ある動画に「○○発売中！」とか登録しておけば、{additional}の部分が「○○発売中！」に置換されて主コメが行われます。
 
+===for Advanced users(上級者向け) 0.9.7以降===
+*0.9.7(まだ未公開だよ)以降*<br>
+{=_expression_} と書くと、式を評価した結果と置換します。<br>
+数値になる場合は小数点以下1桁まで出力します。
+
+  * {=1+1} と書くと、2.0 と置換します。
+  * {=info.mylistcomment?info.mylistcomment:"マイリストコメントはありません"} と書くと、<br>マイリストコメントがあればそれを、なければマイリストコメントはありませんと主コメする。
+  * {=info.view_counter/info.comment_num} だとボカロ系で見られる聴き入り度。
+  * javascriptの解釈できる式であればいいので、上級者ユーザーはnicolivehelper.jsを読みつついろいろ試してみるといいかも。
+
+使用できる動画情報の例：
+||info.cno||リク主のコメント番号。リクエストではないときは0||
+||info.video_id||動画ID||
+||info.title||タイトル||
+||info.description||動画の詳細(先頭40文字)||
+||info.first_retrieve||投稿日(UNIX時間)||
+||info.length||再生時間(mm:ss形式)||
+||info.length_ms||再生時間(ミリ秒)||
+||info.view_counter||再生数||
+||info.comment_num||コメント数||
+||info.mylist_counter||マイリスト数||
+||info.highbitrate||平均ビットレート(kbps)||
+||info.pname||P名(D名)||
+||info.mylistcomment||マイリストコメント。ないときはundefined||
+
+
+
 ==Windows Live Messengerとの連携==
 
 Helperを起動すると、Windows Live Messengerの再生中楽曲表示部分に、生放送の番組名を表示します。
