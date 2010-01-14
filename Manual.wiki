@@ -301,7 +301,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 
 ===for Advanced users(上級者向け) 0.9.7以降===
 *0.9.7(まだ未公開だよ)以降*<br>
-{=_expression_} と書くと、式を評価した結果と置換します。<br>
+{=_statement_} と書くと、式を評価した結果と置換します。<br>
 数値になる場合は小数点以下1桁まで出力します。
 
   * {=1+1} と書くと、2.0 と置換します。
