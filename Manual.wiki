@@ -216,6 +216,14 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
+=== P名ホワイトリスト ===
+
+  * P名として認識したい文字列を、1行につき 1つずつ記入して、保存ボタンを押してください。
+  * 内蔵のP名リストと併合して使用します。
+  * Helper再起動後、有効になります。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_pnamewhitelist.png
+
 === 運営コメント ===
 リクエストを受けるときに応答する運営コメントをカスタマイズできます。
 
@@ -245,18 +253,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
-=== P名ホワイトリスト ===
-
-  * P名として認識したい文字列を、1行につき 1つずつ記入して、保存ボタンを押してください。
-  * 内蔵のP名リストと併合して使用します。
-  * Helper再起動後、有効になります。
-
-http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_pnamewhitelist.png
-
 === その他 ===
 ユーザー生放送ではないものは、自動で開くことができません(一応、仕様)
 
-コメントログを保存するときは、必ず保存先を指定しておいてください。
+  * コメントログを保存するときは、必ず保存先を指定しておいてください。
+  * 3分前通知の方法を選択することができます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
@@ -305,7 +306,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
   * {additional}は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。<br>ある動画に「○○発売中！」とか登録しておけば、{additional}の部分が「○○発売中！」に置換されて主コメが行われます。
 
 ===for Advanced users(上級者向け) 0.9.7以降===
-*0.9.7(まだ未公開だよ)以降*<br>
+
 {=_statement_} と書くと、式を評価した結果と置換します。<br>
 数値になる場合は小数点以下1桁まで出力します。数値で小数点以下がいらないときにはparseInt()したりtoString()してください。
 
