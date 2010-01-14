@@ -302,13 +302,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ===for Advanced users(上級者向け) 0.9.7以降===
 *0.9.7(まだ未公開だよ)以降*<br>
 {=_statement_} と書くと、式を評価した結果と置換します。<br>
-数値になる場合は小数点以下1桁まで出力します。
+数値になる場合は小数点以下1桁まで出力します。数値で小数点以下がいらないときにはparseInt()したりtoString()してください。
 
   * {=1+1} と書くと、2.0 と置換します。
   * {=info.mylistcomment?info.mylistcomment:"マイリストコメントはありません"} と書くと、<br>マイリストコメントがあればそれを、なければマイリストコメントはありませんと主コメする。
   * {=info.view_counter/info.comment_num} だとボカロ系で見られる聴き入り度。
   * 条件分岐もOK。
-  * javascriptの解釈できる式であればいいので、上級者ユーザーはnicolivehelper.jsを読みつついろいろ試してみるといいかも。
+  * javascriptの解釈できるステートメントであればいいので、上級者ユーザーはnicolivehelper.jsを読みつついろいろ試してみるといいかも。
 
 使用できる動画情報の例：
 ||info.cno||リク主のコメント番号。リクエストではないときは0||
@@ -325,6 +325,16 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||info.pname||P名(D名)||
 ||info.mylistcomment||マイリストコメント。ないときはundefined||
 
+||info.restrict.view_from||再生数(以上)||
+||info.restrict.view_to||再生数(以下)||
+||info.restrict.mylist_from||マイリスト数(以上)||
+||info.restrict.mylist_to||マイリスト数(以下)||
+||info.restrict.videolength||動画の時間(秒)以下||
+||info.restrict.date_from||投稿日(以後)||
+||info.restrict.date_to||投稿日(以前)||
+||info.restrict.requiredkeyword||その動画のタグに含まれる必須キーワードのリスト||
+||info.restrict.forbiddenkeyword||その動画のタグに含まれる禁止キーワード||
+||info.restrict.numberofrequests||1人あたりのリクエスト受け付け最大数||
 
 
 ==Windows Live Messengerとの連携==
