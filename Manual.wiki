@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 0.9.6)=
+=Manual (version 0.9.7) 書き換え中=
 <wiki:toc max_depth="3" />
 
-0.9.6用 *簡易* マニュアルです。<br>
+0.9.7用 *簡易* マニュアルです。<br>
 
 == Startup ==
 生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。<br>
@@ -115,6 +115,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_errorrequest.png
   * テキスト復旧は、内部の履歴データに基づいて再生履歴テキストを復旧します。<br>番組名は放送IDは記録されていないので、動画IDとタイトルのみの復旧になります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
+
+新しい再生履歴表示が追加されました。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
+
 
 == コメント ==
 ただのコメントビューア。発言もできます。<br>
