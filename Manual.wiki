@@ -314,6 +314,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
   * {=info.mylistcomment?info.mylistcomment:"マイリストコメントはありません"} と書くと、<br>マイリストコメントがあればそれを、なければマイリストコメントはありませんと主コメする。
   * {=info.view_counter/info.comment_num} だとボカロ系で見られる聴き入り度。
   * 条件分岐もOK。
+  * コミュニティ別コメント変更もできるし、夢がひろがりんぐ。
   * javascriptの解釈できるステートメントであればいいので、上級者ユーザーはnicolivehelper.jsを読みつついろいろ試してみるといいかも。
 
 使用できる動画情報の例：
