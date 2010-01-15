@@ -1,6 +1,8 @@
 #summary スクリーンショット
 #labels Featured
 
+<wiki:toc max_depth="3" />
+
 =スクリーンショット=
 ==Open Solaris 2009.06==
 
