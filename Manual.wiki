@@ -420,4 +420,6 @@ Mac OS X 10.4 Tiger/Ubuntu(GNOME)は最前面表示にならず。
 ==スクリーンショット==
 ===Open Solaris 2009.06===
 
+  * Solarisのウィンドウマネージャだと最前面表示できますね。<br>Linux等もウィンドウマネージャ次第かと。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-solaris.png
