@@ -1,4 +1,5 @@
 #summary スクリーンショット
+#labels Featured
 
 =スクリーンショット=
 ==Open Solaris 2009.06==
