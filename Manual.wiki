@@ -418,6 +418,6 @@ Mac OS X 10.4 Tiger/Ubuntu(GNOME)は最前面表示にならず。
 ツール問わない技。
 
 ==スクリーンショット==
-===OpenSolaris2009.06===
+===Open Solaris 2009.06===
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-solaris.png
