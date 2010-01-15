@@ -398,7 +398,7 @@ Mac OS X 10.4 Tiger/Ubuntu(GNOME)は最前面表示にならず。
 
 これもOSによるようです。
 
-||表示される||Windows Vista/XP, MacOSX ||
+||表示される||Windows Vista/XP, MacOSX, OpenSolaris 2009.06 ||
 ||表示されない|| その他 ||
 
 
