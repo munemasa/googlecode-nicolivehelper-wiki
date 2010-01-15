@@ -1,5 +1,6 @@
 #labels Featured
 =仕様メモ=
+
 <wiki:toc max_depth="2" />
 
   * 何も再生していない場合というのは、左下のプログレスバーの表示がないとき。
