@@ -42,8 +42,7 @@
 
   # array.push(request)
   # send an asynchronous XMLHttpRequest
-  # if done;  array(request).xml = responseXML;
-  # while(array(0).xml){ xml = array.shift(); process(xml); }
+  # if done;  array(request).xml = responseXML; while(array(0).xml){ xml = array.shift(); process(xml); }
 
 
 ==動画DBの動画情報更新==
