@@ -416,3 +416,8 @@ Mac OS X 10.4 Tiger/Ubuntu(GNOME)は最前面表示にならず。
 ===ロスタイムについて===
 配信開始ボタンを押したあと、生放送画面をリロードするだけでロスタイムは発生する。<br>
 ツール問わない技。
+
+==スクリーンショット==
+===OpenSolaris2009.06===
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-solaris.png
