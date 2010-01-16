@@ -247,6 +247,15 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_pnamewhitelist.pn
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
+  * (*0.9.8以降*)
+  * 生放送に接続したとき、何も再生していないとき、開始3分以内のときに、スタートアップコメントとして発言します。
+  * 1行5秒間隔で送信します。
+  * 5秒間隔とはいえ、ラグがひどい時には前後することもあります。
+  * 主コメなので、{hoge} は一通り使用できます。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_startup-comment.png
+
+
 === リクエスト制限 ===
 リクエストを受け付ける動画の条件(リク縛り)を指定します。<br>
 指定した条件をプリセット名を指定して保存することができます。
