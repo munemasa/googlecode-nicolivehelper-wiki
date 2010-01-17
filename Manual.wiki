@@ -2,7 +2,7 @@
 #labels Featured
 
 =Manual (version 0.9.7)=
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="4" />
 
 0.9.7用 *簡易* マニュアルです。<br>
 
@@ -246,6 +246,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_pnamewhitelist.pn
   * 「連続コメント用テキストファイル保存先」は、連続コメントウィンドウでリストアップされたい.txtファイルのあるフォルダを指定します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
+
+====スタートアップコメント====
 
   * (*0.9.8以降*)
   * 生放送に接続したとき、何も再生していないとき、開始3分以内のときに、スタートアップコメントとして発言します。
