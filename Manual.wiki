@@ -278,6 +278,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_startup-comment.p
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
+=== 視聴者コマンド ===
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.png
+
+
 === その他 ===
 ユーザー生放送ではないものは、自動で開くことができません(一応、仕様)
 
@@ -285,6 +290,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
   * 3分前通知の方法を選択することができます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
 == 連続コメント ==
 
