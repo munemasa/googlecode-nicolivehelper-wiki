@@ -229,6 +229,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
   * 動画情報のコメント{json}マクロで置換されます。
   * このファイルは、生主モードで起動するときに読み込みます。
 
+  * 動画情報以外のコメントをした場合、指定の行数目の動画情報を再送信します。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
 === P名ホワイトリスト ===
@@ -243,7 +245,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_pnamewhitelist.pn
 リクエストを受けるときに応答する運営コメントをカスタマイズできます。
 
   * 空欄は運営コメントなしと同じです。
-  * リクエスト制限によるリク拒否は、その理由を必ず主コメします。<br>(基本設定で「リクエストに対して自動で運営コメントを返す」にチェックしていない場合は除く)
   * 「連続コメント用テキストファイル保存先」は、連続コメントウィンドウでリストアップされたい.txtファイルのあるフォルダを指定します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
@@ -279,6 +280,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_startup-comment.p
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 === 視聴者コマンド ===
+
+  * /s /del /ver /version /dice があります。
+  * /s はリクエストの確認。
+  * /del は /del all でリクエスト全削除、/del sm9 で指定のリクを削除。
+  * /ver はNicoLive Helperのバージョンを。
+  * /dice はダイスロールの結果を応答します。<br>/dice 2D+5 や /dice 3d+2 と書く。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.png
 
