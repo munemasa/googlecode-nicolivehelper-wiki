@@ -159,6 +159,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
 リクエスト送信は、リスナーならコメント送信、主ならリクエストタブ行きです。
 
   * 検索実行ボタンを押さなくても勝手に検索を始めます。
+  * 検索結果が安定して10秒経過すると、10秒ごとに10件ずつ検索結果の動画情報を更新します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 
