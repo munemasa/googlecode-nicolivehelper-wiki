@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 0.9.7)=
+=Manual (version 0.9.8) 準備中=
 <wiki:toc max_depth="4" />
 
-0.9.7用 *簡易* マニュアルです。<br>
+0.9.8用 *簡易* マニュアルです。<br>
 
 == Startup ==
 生放送のページでコンテキストメニューを出し、NicoLive Helperを選択します。<br>
