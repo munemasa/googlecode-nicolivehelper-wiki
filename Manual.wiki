@@ -373,6 +373,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||info.pname||P名(D名)||
 ||info.mylistcomment||マイリストコメント。ないときはundefined||
 
+リクエスト制限への応答で使える情報の例:
 ||info.restrict.view_from||再生数(以上)||
 ||info.restrict.view_to||再生数(以下)||
 ||info.restrict.mylist_from||マイリスト数(以上)||
