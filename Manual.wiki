@@ -283,9 +283,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 === 視聴者コマンド ===
 
   * /s /del /ver /version /dice があります。
+  * /ver はNicoLive Helperのバージョンを(これだけ視聴者コマンドOFFでも実行される)。
   * /s はリクエストの確認。
   * /del は /del all でリクエスト全削除、/del sm9 で指定のリクを削除。
-  * /ver はNicoLive Helperのバージョンを。
   * /dice はダイスロールの結果を応答します。<br>/dice 2D+5 や /dice 3d+2 と書く。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.png
