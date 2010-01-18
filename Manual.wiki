@@ -249,7 +249,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
 ====スタートアップコメント====
 
-  * (*0.9.8以降*)
   * 生放送に接続したとき、何も再生していないとき、開始3分以内のときに、スタートアップコメントとして発言します。
   * 1行5秒間隔で送信します。
   * 5秒間隔とはいえ、ラグがひどい時には前後することもあります。
@@ -290,6 +289,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.p
   * 3分前通知の方法を選択することができます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
+
+  * 最前面表示はWindowsでのみ有効です。<br>さらにFirefox自身がZオーダー管理、整列しているのかいまいち動作が怪しい。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
