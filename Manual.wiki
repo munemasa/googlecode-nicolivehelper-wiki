@@ -164,7 +164,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 
 == 再生中動画のマイリス登録 ==
 
-左下のプログレスバーのコンテキストメニューからマイリス登録を行うことができます。
+  * 左下のプログレスバーのコンテキストメニューからマイリス登録を行うことができます。
+  * CTRL+M でとりあえずマイリストします。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/add_mylist.png
 
