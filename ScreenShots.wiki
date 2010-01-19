@@ -27,4 +27,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windows7onVM.p
 
 ==Windows 2000==
 
+  * Windows 2000でプログレスバーが出ないのは、プログレスバーは紺色だから重ね合わせさせると見えなくなる、というFirefoxの配慮なのかなぁ。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windows2000.png
