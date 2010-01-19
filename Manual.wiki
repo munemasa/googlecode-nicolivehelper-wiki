@@ -312,6 +312,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 == 連続コメント ==
 
   * 運営コメント設定で指定されたフォルダにあるテキストファイル(.txt)をリストメニューで選択して、テキストボックスに読み込むことが出来ます。
+  * テキストファイルをドロップしても読み込みます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/continuouscomment.png
 
