@@ -5,7 +5,7 @@
 
 =スクリーンショット=
 
-俺はこんなOSで動かしているぜ！と自慢したい方いましたら、是非、スクリーンショットをお送りください。貼り付けますん。
+俺はこんなOSで動かしているぜ！という方いましたら、是非、表記したい提供者名(匿名OK)を添えてスクリーンショットをお送りください。貼り付けますん。
 
 ==Open Solaris 2009.06==
 
@@ -19,8 +19,16 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windowsxp.png
 
 ==Mac OS X 10.6 Snow Leopard ==
 
+  * Macは無駄にボタンが大きい感じ。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-snowleopard.png
 
 ==Windows 7(English ver.) on VMware==
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windows7onVM.png
+
+==Windows 2000==
+
+  * Windows 2000でプログレスバーが出ないのは、プログレスバーは紺色だから重ね合わせさせると見えなくなる、というFirefoxの配慮なのかなぁ。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windows2000.png
