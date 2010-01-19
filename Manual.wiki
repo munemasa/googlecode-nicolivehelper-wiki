@@ -103,7 +103,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
 ===リクエスト・ストック内検索===
 
-  * リクエスト、ストックは、CTRL+F で動画検索をすることができます。<br>MacだとOption+F？
+  * リクエスト、ストックは、CTRL+F で動画検索をすることができます。<br>MacだとApple+F
   * F3 で次を検索します。
   * 検索対象は、画面に表示されている全てのテキストです。
 
