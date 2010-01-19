@@ -21,6 +21,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windowsxp.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-snowleopard.png
 
-==Windows 7 on VMware==
+==Windows 7(English ver.) on VMware==
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windows7onVM.png
