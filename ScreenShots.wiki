@@ -20,3 +20,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windowsxp.png
 ==Mac OS X 10.6 Snow Leopard ==
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-snowleopard.png
+
+==Windows 7 on VMware==
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windows7onVM.png
