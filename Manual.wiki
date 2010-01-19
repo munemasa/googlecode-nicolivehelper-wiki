@@ -297,8 +297,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.p
 
   * コメントログを保存するときは、必ず保存先を指定しておいてください。
   * 3分前通知の方法を選択することができます。
+  * コメント入力補完プリセットは、「文字,コメント」と、1行ずつカンマ区切りで記入します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
+
+すると、こんな風になります。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletesample.png
 
   * 最前面表示はWindowsでのみ有効です。<br>さらにFirefox自身がZオーダー管理、整列しているのかいまいち動作が怪しい。
 
