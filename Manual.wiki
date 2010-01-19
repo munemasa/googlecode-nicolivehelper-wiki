@@ -233,6 +233,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
   * 動画情報以外のコメントをした場合、指定の行数目の動画情報を再送信します。
 
+  * 動画情報プレビューは入力欄で何かキーを押したときに更新されます。<br>正しいHTMLでないと一切表示されません(レンダリングエンジンはルールに厳しいのです)
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
 === P名ホワイトリスト ===
@@ -297,7 +299,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.p
 
   * コメントログを保存するときは、必ず保存先を指定しておいてください。
   * 3分前通知の方法を選択することができます。
-  * コメント入力補完プリセットは、 `「文字,コメント」` と、1行ずつカンマ区切りで記入します。
+  * NGワード処理は結構重い処理なので、使用環境によってON/OFFしてください。
+  * コメント入力補完プリセットは `「文字,コメント」` と、1行ずつカンマ区切りで記入します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
