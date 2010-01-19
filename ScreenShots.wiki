@@ -19,6 +19,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windowsxp.png
 
 ==Mac OS X 10.6 Snow Leopard ==
 
+  * Macは無駄にボタンが大きい感じ。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-snowleopard.png
 
 ==Windows 7(English ver.) on VMware==
