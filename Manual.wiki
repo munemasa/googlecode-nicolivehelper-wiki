@@ -403,8 +403,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/windowslivemessenger.
 ==Tips and Q&A==
 
 ===no loginのダイアログが出る===
+
+以下のいずれかで改善するようです。
+
   * ツール、オプション、詳細、ネットワークから、キャッシュを消す。
   * 他のアドオン(拡張機能)を無効にしてみる<br>まずはニコニコ生放送ヘルパー以外を全て無効化して確認する。
+  * Firefoxを一回アンインストールし、再インストールしてみる。
 
 それでもダメなようでしたら、使用環境を添えてIssueかニコニコミュニティの掲示板へ。
 
