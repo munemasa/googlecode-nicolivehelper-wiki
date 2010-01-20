@@ -74,7 +74,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
 ||JSONファイルダウンロード||動画情報設定で指定したJSONファイルをダウンロードします||
 ||配信開始(Experimental)||配信開始します。公式コンソールで配信開始ボタンが押せない時にでも||
 ||強制生主モード(Experimental)||座席番号が急に変わったりして生主で動かないときの緊急用に||
-||ウィンドウサイズを初期状態に戻す||ウィンドウサイズを720x512にします<br>真の初期値はクライアント領域が720x512でウィンドウサイズではないですが仕様で。||
+||ウィンドウサイズを初期状態に戻す||名前の通り、ウィンドウサイズを初期状態にします。||
 
 
 ==リクエスト==
@@ -305,7 +305,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.p
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
-すると、こんな風になります。
+↑のようにすると、こんな風↓になります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletesample.png
 
