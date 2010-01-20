@@ -295,7 +295,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.p
 
 
 === その他 ===
-ユーザー生放送ではないものは、自動で開くことができません(一応、仕様)
 
   * コメントログを保存するときは、必ず保存先を指定しておいてください。
   * 3分前通知の方法を選択することができます。
