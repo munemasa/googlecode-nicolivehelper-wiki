@@ -1,7 +1,7 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 0.9.9) 準備中=
+=Manual (version 0.9.9)=
 <wiki:toc max_depth="4" />
 
 0.9.9用 *簡易* マニュアルです。
