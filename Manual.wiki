@@ -103,8 +103,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
 ===リクエスト・ストック内検索===
 
-  * リクエスト、ストックは、CTRL+F で動画検索をすることができます。<br>MacだとApple+F
-  * F3 で次を検索します。
+  * リクエスト、ストックは、`CTRL+F` で動画検索をすることができます。<br>Macだと`Apple+F`
+  * `F3` で次を検索します。
   * 検索対象は、画面に表示されている全てのテキストです。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/searchfromrequeststock.png
@@ -140,13 +140,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
 コンテキストメニューから コテハン設定とコメントのコピー ができます。
 
 ここからコメントを発信する場合、アンカー指定のリクエスト受け付けを実行することができます。<br>
-「>>10-20@5」と主コメすると、コメ番10～20の範囲で最大5個受け付けることになります。
-「アンカー>>100-120@5つリク受け付けます」とか「アンカー>>100-120」(@がないときは受け付け個数制限なし)でもOK。<br>
+「`>>10-20@5`」と主コメすると、コメ番10～20の範囲で最大5個受け付けることになります。
+「`アンカー>>100-120@5つリク受け付けます`」とか「`アンカー>>100-120`」(@がないときは受け付け個数制限なし)でもOK。<br>
 
   * 動画IDにカーソルを持って行くと、動画のブログ貼り付け用の表示が左下に現れます。(カーソル追従はうまくできなかったので保留)
-  * 「>>開始コメ番-終了コメ番@受付個数」の形式が主コメに含まれていればOK
-  * 有効なアンカー<br>「>>35-」コメ番35番以降<br>「>>35-50」コメ番35-50番<br>「>>35-@5」コメ番35番以降、リク5個まで
-  * そういえば「>>35-」で始めたアンカー指定を停止させる手段がなかったな…。
+  * 「`>>開始コメ番-終了コメ番@受付個数`」の形式が主コメに含まれていればOK
+  * 有効なアンカー<br>「`>>35-`」コメ番35番以降<br>「`>>35-50`」コメ番35-50番<br>「`>>35-@5`」コメ番35番以降、リク5個まで
+  * そういえば「`>>35-`」で始めたアンカー指定を停止させる手段がなかったな…。
   * アンカー指定でのリク受け付けは「リクエスト拒否」の状態でのみ行われます
   * アンカー指定中は「受け付けました」の自動応答はありません。ただし、受け付けエラーは自動応答します。
 
@@ -166,7 +166,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 == 再生中動画のマイリス登録 ==
 
   * 左下のプログレスバーのコンテキストメニューからマイリス登録を行うことができます。
-  * CTRL+M でとりあえずマイリストします。
+  * `CTRL+M` でとりあえずマイリストします。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/add_mylist.png
 
@@ -187,9 +187,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browser.png
 コミュニティ毎にジングル動画を指定することができます。<br>
 (ニコリクさんみたいにリストメニュー形式も用意してみたいところだが、要望次第)
 
-  * ジングル動画IDの後ろに、/co0000 とコミュニティIDを記述すると、そのコミュ用のジングルになります。
+  * ジングル動画IDの後ろに、`/co0000` とコミュニティIDを記述すると、そのコミュ用のジングルになります。
   * コミュニティ指定がない動画IDは、その他のコミュニティで再生されます。
-  * 「sm7113282 sm6941824/co154 sm6941769/co154 sm7113282/co154」開発主の例
+  * 「`sm7113282 sm6941824/co154 sm6941769/co154 sm7113282/co154`」開発主の例
   * co154 初音ミクコミュで生主する場合、sm6941824,sm6941769,sm7113282 の3つからランダムで選択して再生します。
   * それ以外のコミュでは sm7113282 を再生します。
 
@@ -225,9 +225,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
   * コメ欄に動画IDを直接入力して再生したとき、動画情報を主コメしない設定は、ジングル動画の情報も出なくなります。(ジングル再生が動画ID直接入力再生と同じなので)
 
-  * JSONファイルのあるURI(URL)にある先の、ファイルの中身は { "sm9": 値, "sm10": 値 } となっているものです。<br>ミクノ度の場合は、http://mikunopop.info/play/count.json など。
+  * JSONファイルのあるURI(URL)にある先の、ファイルの中身は `{ "sm9": 値, "sm10": 値 }` となっているものです。<br>ミクノ度の場合は、`http://mikunopop.info/play/count.json` など。
   * file:// でお使いのPC内のファイルも指定できます。
-  * 動画情報のコメント{json}マクロで置換されます。
+  * 動画情報のコメント`{json}`マクロで置換されます。
   * このファイルは、生主モードで起動するときに読み込みます。
 
   * 動画情報以外のコメントをした場合、指定の行数目の動画情報を再送信します。
@@ -258,7 +258,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
   * 生放送に接続したとき、何も再生していないとき、開始3分以内のときに、スタートアップコメントとして発言します。
   * 1行5秒間隔で送信します。
   * 5秒間隔とはいえ、ラグがひどい時には前後することもあります。
-  * 主コメなので、{hoge} は一通り使用できます。
+  * 主コメなので、`{hoge}` は一通り使用できます。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_startup-comment.png
 
@@ -285,11 +285,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 === 視聴者コマンド ===
 
-  * /s /del /ver /version /dice があります。
-  * /ver はNicoLive Helperのバージョンを(これだけ視聴者コマンドOFFでも実行される)。
-  * /s はリクエストの確認。
-  * /del は /del all でリクエスト全削除、/del sm9 で指定のリクを削除。
-  * /dice はダイスロールの結果を応答します。<br>/dice 2D+5 や /dice 3d+2 と書く。
+  * `/s /del /ver /version /dice` があります。
+  * `/ver` はNicoLive Helperのバージョンを(これだけ視聴者コマンドOFFでも実行される)。
+  * `/s` はリクエストの確認。
+  * `/del` は `/del all` でリクエスト全削除、`/del sm9` で指定のリクを削除。
+  * `/dice` はダイスロールの結果を応答します。<br>`/dice 2D+5` や `/dice 3d+2` と書く。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.png
 
@@ -355,18 +355,18 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||{json}||再生中の動画の、動画情報設定で指定した先のJSONファイルにある情報と置換します||
 ||{mylistcomment}||マイリストからストック追加した場合、再生中の動画のマイリストコメントがあれば、マイリストコメントと置換します||
 
-  * {additional}は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。<br>ある動画に「○○発売中！」とか登録しておけば、{additional}の部分が「○○発売中！」に置換されて主コメが行われます。
+  * `{additional}`は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。<br>ある動画に「○○発売中！」とか登録しておけば、`{additional}`の部分が「○○発売中！」に置換されて主コメが行われます。
 
 ===for Advanced users(上級者向け)===
 
 {=_statement_} と書くと、式を評価した結果と置換します。<br>
 
-  * {=1+1} と書くと、2 と置換します。
-  * {=info.mylistcomment?info.mylistcomment:"マイリストコメントはありません"} と書くと、<br>マイリストコメントがあればそれを、なければマイリストコメントはありませんと主コメする。
-  * {=info.view_counter/info.comment_num} だとボカロ系で見られる聴き入り度。
+  * `{=1+1}` と書くと、2 と置換します。
+  * `{=info.mylistcomment?info.mylistcomment:"マイリストコメントはありません"}` と書くと、<br>マイリストコメントがあればそれを、なければマイリストコメントはありませんと主コメする。
+  * `{=info.view_counter/info.comment_num}` だとボカロ系で見られる聴き入り度。
   * 条件分岐もOK。
   * コミュニティ別コメント変更もできるし、夢がひろがりんぐ。
-  * javascriptの解釈できるステートメントであればいいので、上級者ユーザーはnicolivehelper.jsを読みつついろいろ試してみるといいかも。
+  * javascriptの解釈できるステートメントであればいいので、上級者ユーザーは`nicolivehelper.js`を読みつついろいろ試してみるといいかも。
 
 使用できる動画情報の例：
 ||info.cno||リク主のコメント番号。リクエストではないときは0||
