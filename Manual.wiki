@@ -474,3 +474,4 @@ Windowsで最前面指定してもFirefoxウィンドウ内で最前面になる
   * 現在の日時を出す。 `{=GetDateString(GetCurrentTime()*1000)}`<br>2010/01/19 0:57:43 と出る。
 
   * リクエスト上限数仕様の拡張(アイデアレベルなので動作確認してないよ)<br>動画情報コメで、`{=NicoLiveHelper.request_per_ppl[info.user_id]--;""}`<br>とやると、リクエストを再生するたびにリクエスト受け付け数カウントを減らすので、上限数に達した視聴者でも、動画が再生されれば、再生した回数分、またリクエストできるようになる…はず！<br>動画が短すぎて主コメされないと意味ないですが…。
+  * リクエストの受け付け応答コメントで、`{=if(NicoLiveHelper.requestqueue.length>=6){ NicoLiveHelper.setAllowRequest(false); } ""}`<br>多分、リク6件受け付けるとリク受け付け不可に切り替わると思う。
