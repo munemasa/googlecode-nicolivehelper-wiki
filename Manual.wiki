@@ -432,7 +432,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/windowslivemessenger.
 改善しない場合は、
 
   * 他のアドオン(拡張機能)を無効にしてみる<br>まずはニコニコ生放送ヘルパー以外を全て無効化して確認する。<br>他のアドオンとの相性を確認。
-  * プロフィールマネージャで新しいプロフィールを作り、そちらで試してみる。<br>新しいプロフィールで設定など初期状態から使ってみる。<br>プロフィールマネージャはWindowsではスタートメニューにありますが、Macだとコマンドラインで `firefox -ProfileManager` とすればOK？
+  * プロフィールマネージャで新しいプロフィールを作り、そちらで試してみる。<br>新しいプロフィールで設定など初期状態から使ってみる。<br>プロフィールマネージャはWindowsではスタートメニューにありますが、Macだとコマンドラインで `/Applications/Firefox.app/Contents/MacOS/firefox -ProfileManager` とすればOK？
 
 それでもダメなようでしたら、使用環境を添えてIssueかニコニコミュニティの掲示板へ。
 
