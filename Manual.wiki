@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 0.9.10) 準備中=
+=Manual (version 0.9.10)=
 <wiki:toc max_depth="4" />
 
-0.9.9用 *簡易* マニュアルです。0.9.10用の記述も一部含まれています。
+0.9.10用 *簡易* マニュアルです。
 
 == 動画の分類(0.9.10) ==
 Bayesian Classifier(ベイズ分類器)による動画分類の、お試し機能を追加しました。
