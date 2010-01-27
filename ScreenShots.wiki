@@ -25,6 +25,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-snowleopard.pn
 
 ==Windows 7(English ver.) on VMware==
 
+  * 英語版なのでフォントがメイリオじゃなくて、MS UIゴシックかな…？
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windows7onVM.png
 
 ==Windows 2000==
