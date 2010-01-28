@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 0.9.10)=
+=Manual (version 0.9.11)準備中=
 <wiki:toc max_depth="4" />
 
-0.9.10用 *簡易* マニュアルです。
+0.9.10用 *簡易* マニュアルです。一部0.9.11向けの記述が含まれています。
 
 == 動画の分類(0.9.10) ==
 Bayesian Classifier(ベイズ分類器)による動画分類の、お試し機能を追加しました。
@@ -160,6 +160,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
   * そういえば「`>>35-`」で始めたアンカー指定を停止させる手段がなかったな…。
   * アンカー指定でのリク受け付けは「リクエスト拒否」の状態でのみ行われます
   * アンカー指定中は「受け付けました」の自動応答はありません。ただし、受け付けエラーは自動応答します。
+
+  * OS側で持つコンポーネントの色選択ではないので、背景色に選べる色はこんな感じ。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
 
