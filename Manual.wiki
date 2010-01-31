@@ -108,7 +108,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
   * テキストファイルだけでなく、動画やマイリスのリンク、検索ページのタブもドロップできます。(<a href="http://www.nicovideo.jp/watch/sm9105183">sm9105183</a>)
   * カテゴリ別のランキングページのタブもドロップできます。
   * コンテキストメニューからは、P名設定などができます。
-  * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。<br>通信の世界なのでSI単位系に則って計算されています。
+  * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
