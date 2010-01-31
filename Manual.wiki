@@ -240,7 +240,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browser.png
  １枠に1人あたりいくつのリクエストを許可するかを指定します。0は制限なしです。
 
 *初音ミクのライブモード(開発主用)*
- 初音ミクが歌うオリジナル曲やPVを受け付けます。そのうち推論エンジン&機械学習モデル採用して判定能力上げようかと。
+ 機械学習により動画を分類します。<br>まずは単純ベイズ分類器により、どのVOCALOIDの歌かどうかを分類します。その次にタイトルに「ミク」「オリジナル」が含まれているかどうかをチェックします。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
