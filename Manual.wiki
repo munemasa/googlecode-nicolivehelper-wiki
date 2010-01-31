@@ -260,6 +260,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
   * 動画情報プレビューは入力欄で何かキーを押したときに更新されます。<br>XHTMLとして評価されるので、正しくないと一切表示されません(レンダリングエンジンはルールに厳しいのです)
   * サンプルで表示される動画情報は、開発主の最もお気に入り曲「私の時間」です。
+  * flashのレンダリングとGeckoのレンダリングは違うので、あくまで(色とかの)参考にしてください。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
