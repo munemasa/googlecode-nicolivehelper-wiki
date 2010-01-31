@@ -73,6 +73,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
 *ウィンドウ*
  他のNicoLive Helperのウィンドウ一覧を表示して、そのウィンドウに移動できます。
 
+||バックアップと復元||現在のリクエスト、ストック、再生履歴のバックアップ、復元を行います||
 ||連続コメント||連続コメント用ウィンドウを開きます||
 ||アンケート(Lv25+)||公式のアンケート用ウィンドウを開きます||
 ||アンケート結果を表示する||/vote showresult を送ります||
