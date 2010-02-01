@@ -97,6 +97,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
   * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
   * 左下にあるプログレスバーでコンテキストメニューを出すと、再生中の動画をマイリスト登録できます。
 
+  * 初音ミクのライブモードの場合、学習結果に基づいてラベルを張ります。<br>トレーニング結果によるので、利用者それぞれで分類のされ具合は異なります。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
 ==ストック==
@@ -110,6 +112,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
   * カテゴリ別のランキングページのタブもドロップできます。
   * コンテキストメニューからは、P名設定などができます。
   * リクエストにカーソルを持って行くと、チップヘルプで動画のビットレートを表示します。
+
+  * 初音ミクのライブモードの場合、学習結果に基づいてラベルを張ります。<br>トレーニング結果によるので、利用者それぞれで分類のされ具合は異なります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
