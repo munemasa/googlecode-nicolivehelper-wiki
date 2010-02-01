@@ -290,6 +290,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
   * 生放送に接続したとき、何も再生していないとき、開始3分以内のときに、スタートアップコメントとして発言します。
   * 1行5秒間隔で送信します。
   * 5秒間隔とはいえ、ラグがひどい時には前後することもあります。
+  * 最近のニコ生はたまに主コメが配信されないことがあるのも、注意。
   * 主コメなので、`{hoge}` は一通り使用できます。<br>とはいっても、{title}などの動画情報は利用できないですが。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_startup-comment.png
