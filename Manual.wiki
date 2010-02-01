@@ -115,7 +115,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_stock_menu.png
 
   * リクエスト、ストックは、`CTRL+F` で動画検索をすることができます。<br>Macだと`Apple+F`
   * `F3` で次を検索します。<br>Macだとシステム環境設定のキーボードから、標準のファンクションキーとして使用にチェックしないとダメなんですね。
-  * 検索対象は、画面に表示されている全てのテキストです。
+  * 検索対象は、画面に表示されている全てのテキストです。<br>とはいえ手抜き検索なので、レートの★とかも検索対象になります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/searchfromrequeststock.png
 
