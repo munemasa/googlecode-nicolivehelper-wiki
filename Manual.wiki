@@ -283,6 +283,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_pnamewhitelist.pn
   * そういうことで、個別に応答の有無を指定できます。
   * 「連続コメント用テキストファイル保存先」は、連続コメントウィンドウでリストアップされたい.txtファイルのあるフォルダを指定します。
 
+  * 運営コメントタブ内の設定を、プリセット登録することができます。<br>コミュ別に差し替えたいときにどうぞ。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
 
 ====スタートアップコメント====
