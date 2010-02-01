@@ -144,6 +144,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
 
 新しい再生履歴表示が追加されました。
 
+  * タブ間移動していると、なぜか再生履歴の表示位置が上に移動していることがあるけど、原因不明。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
 
 
