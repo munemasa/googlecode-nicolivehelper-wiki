@@ -146,6 +146,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_history.png
 
 新しい再生履歴表示が追加されました。
 
+  * こちらが、内部の再生履歴データそのものです。
+  * 今のところ個別削除とか考えていません。要望があればやってもいいかなくらいに。
+  * テキスト復旧はこのリストを元に復旧させます。
   * タブ間移動していると、なぜか再生履歴の表示位置が上に移動していることがあるけど、原因不明。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
