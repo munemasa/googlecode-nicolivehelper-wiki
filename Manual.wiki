@@ -527,7 +527,7 @@ Windowsで最前面指定してもFirefoxウィンドウ内で最前面になる
   * コミュ別に、`{=NicoLiveHelper.community=="co154"?"この番組は初音ミクコミュよりお送りしています":"その他のコミュから"}`
   * 現在の日時を出す。 `{=GetDateString(GetCurrentTime()*1000)}`<br>2010/01/19 0:57:43 と出る。
 
-  * `{=NicoLiveHelper.userdefinedvalue[info.video_id]?NicoLiveHelper.userdefinedvalue[info.video_id]:"ミクノ度なし";}`<br>例えばミクノ度が`0`の動画では「ミクノ度なし」出して、そうでないときはミクノ度の数値を出す。<br>{json}だとデータのない動画は `0` になるので、そういうのが不都合な場合に。
+  * `{=NicoLiveHelper.userdefinedvalue[info.video_id]||"ミクノ度なし"}`<br>例えばミクノ度が`0`の動画では「ミクノ度なし」出して、そうでないときはミクノ度の数値を出す。<br>{json}だとデータのない動画は `0` になるので、そういうのが不都合な場合に。
 
   * リクエスト上限数仕様の拡張(アイデアレベルなので動作確認してないよ)<br>動画情報コメで、`{=NicoLiveHelper.request_per_ppl[info.user_id]--;""}`<br>とやると、リクエストを再生するたびにリクエスト受け付け数カウントを減らすので、上限数に達した視聴者でも、動画が再生されれば、再生した回数分、またリクエストできるようになる…はず！<br>動画が短すぎて主コメされないと意味ないですが…。
 
