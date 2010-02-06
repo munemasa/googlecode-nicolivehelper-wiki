@@ -308,6 +308,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_comment.png
   * 1行5秒間隔で送信します。
   * 5秒間隔とはいえ、ラグがひどい時には前後することもあります。
   * 最近のニコ生はたまに主コメが配信されないことがあるのも、注意。
+
   * 主コメなので、`{hoge}` は一通り使用できます。<br>とはいっても、{title}などの動画情報は利用できないですが。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_startup-comment.png
@@ -361,9 +362,15 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletes
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
-====スクリプト====
+====スクリプト(0.9.14+)====
 
-0.9.14+
+特定のシーンで任意のスクリプトを評価し、その結果を利用して次の動作を決定します。
+がんばってjavascriptコードを書いてください。
+
+  * まずはリクエストチェック用スクリプトから。
+  * `eval()`の返り値を利用します。<br>リクエストを拒否する場合、返り値は「文字列」になるようにしてください。<br>これは、リクエストへの応答コメントに使われます。
+
+  * 下のサンプル画像の例だと、再生数99900以上10万未満の、殿堂入り目前の動画のリクエストに対して、「殿堂入り間近のためリクエストを拒否しました」と応答し、リクエストを拒否します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.png
 
