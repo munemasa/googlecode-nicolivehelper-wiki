@@ -361,6 +361,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletes
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
+===スクリプト===
+
+0.9.14+
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.png
+
+
 == 連続コメント ==
 
   * 運営コメント設定で指定されたフォルダにあるテキストファイル(.txt)をリストメニューで選択して、テキストボックスに読み込むことが出来ます。
