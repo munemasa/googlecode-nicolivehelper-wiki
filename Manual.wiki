@@ -427,6 +427,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 
 {=_statement_} と書くと、式を評価した結果と置換します。<br>
 
+  * ステートメント内の、最後に評価した式の結果と置換します。<br>つまり、`{=1+1;""}`と書くと、まず式`1+1`を評価、次に式`""`を評価ときて、最後に評価した`""`(つまり空文字)と置換します。
+
   * `{=1+1}` と書くと、2 と置換します。
   * `{=info.mylistcomment?info.mylistcomment:"マイリストコメントはありません"}` と書くと、<br>マイリストコメントがあればそれを、なければマイリストコメントはありませんと主コメする。
   * `{=info.view_counter/info.comment_num}` だとボカロ系で見られる聴き入り度。
