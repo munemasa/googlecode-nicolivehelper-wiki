@@ -370,6 +370,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
   * まずはリクエストチェック用スクリプトから。
   * `eval()`の返り値を利用します。<br>リクエストを拒否する場合、返り値は「文字列」になるようにしてください。<br>これは、リクエストへの応答コメントに使われます。
 
+  * 後述の運営コメントのマクロにある「使用できる動画情報の例」で使える情報が、チェック対象になる動画の情報になります。<br>`info.view_counter`がリクエストされた動画の再生数で、以下略。
+
   * 下のサンプル画像の例だと、再生数99900以上10万未満の、殿堂入り目前の動画のリクエストに対して、「殿堂入り間近のためリクエストを拒否しました」と応答し、リクエストを拒否します。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.png
