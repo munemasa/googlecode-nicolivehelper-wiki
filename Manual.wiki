@@ -338,7 +338,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
 === 視聴者コマンド ===
 
-  * `/s /del /ver /version /dice` があります。
+  * `/s /del /ver /version /dice` があります。<br>PITASEに合わせて、行頭`/`から。`@`の方は対応のつもりなし。
   * `/ver` はNicoLive Helperのバージョンを(これだけ視聴者コマンドOFFでも実行する)。
   * `/s` はリクエストの確認。
   * `/del` は `/del all` でリクエスト全削除、`/del sm9` で指定のリクを削除。
