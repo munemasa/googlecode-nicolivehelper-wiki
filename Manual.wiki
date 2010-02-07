@@ -365,6 +365,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletes
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
+====動画分類(0.9.14+)====
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_classifier.png
+
+
 ====スクリプト(0.9.14+)====
 
 特定のシーンで任意のスクリプトを評価し、その結果を利用して次の動作を決定します。
