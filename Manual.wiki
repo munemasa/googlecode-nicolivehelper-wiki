@@ -374,7 +374,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
   * 自分(開発主)の利用に不都合がない範囲で機能が載ります。
   * 変更した後は「コマンド→分類エンジンの学習情報を初期化」してください。つまり、学習のやり直し。<br>0.9.14の学習エンジン的には、増やす分には問題ないけど減らす方には対応していないので。なぜなら、初音ミクのライブモードで固定的に使うものだったため。
-  * 分類を多くするとそれだけ計算量が増えるので、ほどほどにすべし。
+  * 分類を多くするとそれだけ計算量、メモリ使用量(コーパスをオンメモリで持っているので)が増えるので、ほどほどにすべし。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_classifier.png
 
