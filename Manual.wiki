@@ -359,6 +359,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
 ====動画分類(0.9.14+)====
 
+*※以前のお試し版を使用したことがある場合は、一旦、コマンド→分類エンジンの学習情報を初期化を行ってください。*
+
 機械学習を用いて動画を分類します。
 ニコ動の場合、一般的に動画分類に有効に使えるような情報ってタグくらいしかないなぁってことで、タグを見て学習します。<br>
 タグだけなら、このタグがあったらこれに振り分けとかいうフィルタリングルールでも
@@ -371,6 +373,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
   * 分類結果に基づいてリクエストの受付チェックをするには、次節のスクリプトを作成する必要があります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_classifier.png
+
+  * 初期状態は上記の通り。好きなように、削除、登録してください。
 
 (ボカロ曲がオリジナルか否かの2分類なら、タイトルも使える情報なのだけど。)
 
