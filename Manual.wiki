@@ -375,6 +375,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_classifier.png
 
   * 初期状態は上記の通り。好きなように、削除、登録してください。
+  * 学習した後、その場ですぐにラベルを張り替えません。全部、計算し直しになるため。<br>分類チェックで期待した結果が得られていれば問題ありません。
 
 (ボカロ曲がオリジナルか否かの2分類なら、タイトルも使える情報なのだけど。)
 
