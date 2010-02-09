@@ -355,6 +355,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletes
 
   * 最前面表示はWindowsでのみ有効です。<br>さらにFirefox自身がZオーダー管理、整列しているのかいまいち動作が怪しい。
 
+  * メインウィンドウで使用するフォントを選択できるようにしました(0.9.14+)
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
 ====動画分類(0.9.14+)====
