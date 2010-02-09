@@ -353,6 +353,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.p
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 ↑のようにすると、こんな風↓になります。
+  * ジングル設定のかわりに、こっちにジングル動画を列挙させて再生させるのもありかと。<br>自動ジングル再生だと普通の進行管理するので、ジングルが再生エラー(status=error)になると、ジングル再生せずに次曲に飛んでしまう欠点が。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletesample.png
 
