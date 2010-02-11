@@ -528,6 +528,15 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/windowslivemessenger.
 
 それでもダメなようでしたら、使用環境を添えてIssueかニコニコミュニティの掲示板へ。
 
+===データのバックアップ===
+
+設定自体はFirefoxのプリファレンスシステムを用いているため、
+バックアップってどうやるんだろう…。<br>
+それ以外の動画DBやP名設定などは、
+
+  * Windows Vistaの場合(例)<br>C:\Users\ユーザー名\AppData\Roaming\Mozilla\Firefox\Profiles\プロファイル名\nicolivehelper_miku39jp.sqlite
+
+
 ===ウィンドウ座標をデフォルトに戻す===
 
 0.9.9でウィンドウ座標、サイズの保存方法が変わりました。<br>
