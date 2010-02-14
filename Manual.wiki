@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 0.9.14)=
+=Manual (version 1.0beta1準備中)=
 <wiki:toc max_depth="4" />
 
-0.9.14用 *簡易* マニュアルです。
+1.0beta1用 *簡易* マニュアルです。
 
 
 ==お知らせ==
@@ -184,6 +184,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
 
+
 ===コメントリフレクション===
 
   * コメントリフレクション登録すると、視聴者のコメントを運営コメントを使用して再コメントを行います。<br>ニコリクVAの副管理者というと分かりやすいかも。
@@ -193,6 +194,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
   * 運営コメント欄、左上にある名前欄に表示では、運営コメント欄左上隅にある名前表示欄に、指定の名前を表示します。<br>運営コマンドに認識されないよう ZWSP(`\u200b`)を使って、運営コマンドに認識されないようにしています。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/commentreflection.png
+
+
+  * コメントの流れが速いときでも登録できるよう、コメントタブ下部に設定用の領域があります。
+  * 登録したコテハンの削除は、ここで、DELキーを押してください。<br>ここで削除してもコメントログに反映されないのはバグ。新しく来たコメント分には反映されています。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment.png
 
 
 == 動画DB ==
