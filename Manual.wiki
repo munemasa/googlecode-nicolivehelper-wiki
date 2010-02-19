@@ -202,7 +202,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/commentreflection.png
 
 
   * コメントの流れが速いときでも登録できるよう、コメントタブ下部に設定用の領域があります。
-  * 登録したコテハンの削除は、ここで、DELキーを押してください。(Macだとfn+DEL)<br>ここで削除してもコメントログに反映されないのはバグ。新しく来たコメント分には反映されています。
+  * 登録したコテハンの削除は、ここで、DELキーを押してください。(Macだとfn+DEL)
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment.png
 
