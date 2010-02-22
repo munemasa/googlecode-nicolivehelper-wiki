@@ -111,6 +111,14 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
+===リクエスト処理状態===
+
+  * リクエストを受け付けて処理(動画情報取得)中かどうかを示す表示を、リクエストタブに追加しました。(1.0beta3)
+  * 表示されていて数が減る気配がない場合、通信エラーかもしれないので、タイムアウト30秒～1分くらい待ってみてください。タイムアウト分は処理キューから抹消するはず。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request2.png
+
+
 ==ストック==
 ストック(いわゆる主セレ)。マイリスト(公開マイリスト含む)からインポートできます。
 公開マイリストの取り込みはマイリストのURLを入力欄に入れてください。<br>
