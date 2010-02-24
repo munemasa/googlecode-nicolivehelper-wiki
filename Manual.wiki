@@ -311,8 +311,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
-  * 「動画IDをコメント欄に直接入力して再生した場合、その動画情報を主コメしない」は、<br>コメント欄から直接再生する場合は、現在再生中の動画とは別の動画だろうという前提で、再生中の(ステータスバーに表示されている)ものと異なる動画を再生した場合に動画情報を主コメしないようになっています。そのようなわけで、再生中と同じものをコメすると動画情報を主コメしてしまいます。<br>そのうちなにか対策いれますか。
-
 
 === P名ホワイトリスト ===
 
