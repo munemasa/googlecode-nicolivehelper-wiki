@@ -461,9 +461,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 
 
 == 連続コメント ==
+歌詞コメ用に用意したもの。
 
   * 運営コメント設定で指定されたフォルダにあるテキストファイル(.txt)をリストメニューで選択して、テキストボックスに読み込むことが出来ます。
   * テキストファイルをドロップしても読み込みます。
+
+  * 「\n」で改行を仕込むことが出来ます。(1.0beta4)<br>「\\」で「\」記号になります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/continuouscomment.png
 
