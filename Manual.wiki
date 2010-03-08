@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 1.0beta3)=
+=Manual (version 1.0beta4)書き途中=
 <wiki:toc max_depth="4" />
 
-1.0beta3用 *簡易* マニュアルです。一部1.0beta4向けの記述を含みます。
+1.0beta4用 *簡易* マニュアルです。
 
 
 ==特徴==
