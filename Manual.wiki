@@ -574,9 +574,6 @@ APIで取得できる動画の再生時間と、実際に再生したときの�
   * NicoLive Helperのウィンドウを開いたときに読み込んでいるので、ウィンドウを開き直し、<br>実際にリクやストックに登録してみて再生時間が定義した通りになっているか確認する。
 
 
-
-http://code.google.com/p/nicolivehelper/source/browse/nlh_videolength.csv
-
 ==Tips and Q&A==
 
 ===no loginのダイアログが出る===
