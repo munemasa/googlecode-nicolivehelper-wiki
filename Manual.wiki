@@ -570,7 +570,7 @@ APIで取得できる動画の再生時間と、実際に再生したときの�
 自動再生している時に動画の最後が途切れてしまって残念なことになってしまわないよう、再生時間を再定義できるようにしています。<br>
 
   * Extensionのインストールされるパスの親の場所に nlh_videolength.csv というファイルを置く。<br>デバッグタブを見て、`VideoLength CSV=d:\path\to\nlh_videolength.csv` と書かれているディレクトリに用意すればOK
-  * 「動画ID,再生時間」を列挙する。<br>http://code.google.com/p/nicolivehelper/source/browse/nlh_videolength.csv
+  * 「動画ID,再生時間」を列挙する。<br>例: http://code.google.com/p/nicolivehelper/source/browse/nlh_videolength.csv
   * NicoLive Helperのウィンドウを開いたときに読み込んでいるので、ウィンドウを開き直し、<br>実際にリクやストックに登録してみて再生時間が定義した通りになっているか確認する。
 
 
