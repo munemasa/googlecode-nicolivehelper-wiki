@@ -244,6 +244,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment.png
 
 リクエスト送信は、リスナーなら動画IDをコメント送信、主ならリクエストタブ行きです。
 
+  * ストックタブと同じもどをドロップして、動画DB登録できます。
+
   * 検索結果が表示されているときにUpdateボタンを押すと、検索結果内で1週間以上更新されていない情報を取得します。10件/10秒ずつ。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
