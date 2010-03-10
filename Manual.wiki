@@ -227,6 +227,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
   * 運営コメントに名前を表示では、「`名前さん:<br>コメント`」の形で運営コメントします。
   * 運営コメント欄、左上にある名前欄に表示では、運営コメント欄左上隅にある名前表示欄に、指定の名前を表示します。<br>運営コマンドに認識されないよう ZWSP(`\u200b`)を使って、運営コマンドに認識されないようにしています。
 
+  * なぜコメントリフレクションって呼ぶのかって？<br>ニコリクVAの副管理者機能ってただ単に視聴者コメを主コメで反射しているだけだしなぁ…。生主権限の付与ではないので副管理者機能ではないだろうってことで。<br>
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/commentreflection.png
 
 
