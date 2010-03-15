@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 1.0beta4)=
+=Manual (version 1.0)=
 <wiki:toc max_depth="4" />
 
-1.0beta4用 *簡易* マニュアルです。
+1.0用 *簡易* マニュアルです。
 
 
 ==特徴==
@@ -17,6 +17,7 @@
   * ファイル、ブックマーク、リンク、ブラウザタブなど、*いろいろ*とドロップして登録できるストック
   * ストックをプレイリストとして扱い、ニコニコ動画を利用して動画を連続再生する機能
   * 運営コメントを利用して任意のJavascriptコードを実行し、仕様にない動作をさせることが可能
+  * 生放送終了時に、ブラウザの視聴ページも一緒に閉じることができる機能
 
 
 ==データ保存の優先順位==
@@ -415,6 +416,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletes
   * 最前面表示はWindowsでのみ有効です。<br>さらにFirefox自身がZオーダー管理、整列しているのかいまいち動作が怪しい。
 
   * メインウィンドウで使用するフォントを選択できるようにしました(0.9.14+)
+  * 自動ウィンドウ開閉を行うとき、まとめて生放送のページも閉じることができます(1.0+)<br>ニコ生アラートのブラウザ起動と合わせれば、長時間のながら視聴に便利。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
