@@ -1,13 +1,12 @@
 #summary その他Extensionの簡易説明
+#labels Featured
 
-= Introduction =
+=Extensions=
+<wiki:toc max_depth="4" />
 
-Add your content here.
 
+==NicoLive Helper Comment Talker(ニコニコ生放送ヘルパー用コメント読み上げアドオン)==
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * コメント読み上げ機能を追加します。
+  * Winでは棒読みちゃん<br>MacではSayKotoeriまたは棒読みちゃん
+  * NGコメントもそのまま読み上げます。<br>(現状の仕様だと表示部とこちら側でNGコメント判定を2回やることになるので無駄が多い)
