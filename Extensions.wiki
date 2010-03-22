@@ -26,5 +26,5 @@
 
 ==ニコニコ生放送ヘルパー用コメントプロセッサ(NicoLive Comment Processor)==
 
-  * コメントに対して一定の処理(processing)を行うためのExtensionです。
+  * 受信したコメントに対して一定の処理(processing)を行うためのExtensionです。
   * たとえば、自動コテハン登録や、天気さん野球さんの自動コメントリフレクション登録とか。
