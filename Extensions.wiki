@@ -5,13 +5,13 @@
 <wiki:toc max_depth="4" />
 
 
-==ニコニコ生放送ヘルパー用コメント読み上げアドオン(NicoLive Helper Comment Talker)==
+==ニコニコ生放送ヘルパー用コメント読み上げアドオン(Comment Talker)==
 
   * コメント読み上げ機能を追加します。
   * Winでは棒読みちゃん<br>Mac(10.5以降、Intel CPUのみ)ではSayKotoeriまたは棒読みちゃん
   * NGコメントもそのまま読み上げます。<br>(現状の仕様だと表示部とこちら側でNGコメント判定を2回やることになるので無駄が多い)
 
-==ニコニコ生放送ヘルパー用世界の新着ライクアドオン(NicoLive Helper World's New Movies)==
+==ニコニコ生放送ヘルパー用世界の新着ライクアドオン(World's New Movies)==
 
   * 世界の新着ってどう英訳するのがいいんだろう？ New Arrival Movies in NicoNicoDouga ?
 
@@ -25,7 +25,7 @@
   * `NicoLive Helper`本体に乗っかるため、アンケ結果の表示の仕方や動画情報の表示の仕方、順次orランダムなど、通常と同じになります。
 
 
-==ニコニコ生放送ヘルパー用コメントプロセッサ(NicoLive Comment Processor)==
+==ニコニコ生放送ヘルパー用コメントプロセッサ(Comment Processor)==
 
   * 受信したコメントに対して一定の処理(processing)を行うためのExtensionです。
   * たとえば、自動コテハン登録や、天気さん野球さんの自動コメントリフレクション登録とか。
