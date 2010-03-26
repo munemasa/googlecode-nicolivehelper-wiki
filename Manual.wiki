@@ -168,7 +168,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/searchfromrequeststoc
   * 白はリクエスト拒否
   * 灰色は再生エラー
 
-  * 現在は動画の再生エラーが存在しなくなっているので、基本的にリクエスト拒否したものだけがリストアップされます。
+  * 2010/3/25のメンテで、再び生放送引用拒否動画の再生時エラーを出すようになったので、再生できなかった動画もリストアップするようになります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_errorrequest.png
 
