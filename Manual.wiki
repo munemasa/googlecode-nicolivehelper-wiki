@@ -243,6 +243,20 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/commentreflection.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment.png
 
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment3.png
+
+
+===コメント内リクエスト操作(1.1+)===
+
+コメントビュー内から、リクエスト(自貼り)に関連する操作を行えます。
+
+  * 「リクエストを自貼りに設定する」<br>自貼りフラグを設定し、背景色を緑にします。
+  * 「リクエストを先頭に移動する」<br>指定の動画をリクエストキューの先頭に移動します。
+
+いずれも、リクエストに指定の動画が存在する場合に有効です。(なければ何も起こらないだけ)
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment2.png
+
 
 == 動画DB ==
 ただの動画DB。条件指定して動画検索を行うことが出来ます。<br>
