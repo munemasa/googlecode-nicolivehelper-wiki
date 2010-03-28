@@ -481,9 +481,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/continuouscomment.png
 
-== Firefoxツールメニュー ==
+== 視聴履歴メニュー ==
 
-  * ツールメニュー内にNicoLive Helperを設け、視聴履歴を記録しています。
+  * 履歴メニュー内にNicoLive Helperを設け、視聴履歴を記録しています(1.1+)。<br>1.0系ではツールメニュー内。
   * クリックすると生放送のページへジャンプします。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
