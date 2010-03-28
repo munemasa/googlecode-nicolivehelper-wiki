@@ -243,6 +243,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/commentreflection.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment.png
 
+  * ↓(1.1+はこちら)↓
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment3.png
 
 
