@@ -444,6 +444,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletes
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
+  * シングルウィンドウモードが追加されました。
+  * データ保存のルールはそのままのため、ウィンドウを閉じるときに、生主か、視聴者か、オフラインかの影響を受けます。
+  * 視聴履歴もそのままなので、リスナーで使用した間に追加された再生履歴は、生主をやるときにも影響を受けます。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_window.png
+
+
 ====動画分類(0.9.14+)====
 
 *※以前のお試し版を使用したことがある場合は、一旦、コマンド→分類エンジンの学習情報を初期化を行ってください。*
