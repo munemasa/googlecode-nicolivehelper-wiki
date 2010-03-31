@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 1.0)=
+=Manual (version 1.1)=
 <wiki:toc max_depth="4" />
 
-1.0用 *簡易* マニュアルです。
+1.1用 *簡易* マニュアルです。
 
 
 ==特徴==
@@ -324,7 +324,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browser.png
  リクエストへの応答コメントを、hiddenで表示した運営コメントを事前に消去し、運営コメント欄に表示するようにします。
 
 *リクエストの新着(7日)規制を行う*
- VOCALOID生放送基準で7日以内に投稿されたリクエストを拒否します(1.0beta3+)
+ VOCALOID生放送基準で7日以内に投稿されたリクエストを拒否します。
 
 *再生済み動画のリクエストを受け付ける*
  再生履歴にある動画のリクエストを受け付けるようになります。
@@ -437,12 +437,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_autocompletesample.png
 
-  * 最前面表示はWindowsでのみ有効です。<br>さらにFirefox自身がZオーダー管理、整列しているのかいまいち動作が怪しい。
-
   * メインウィンドウで使用するフォントを選択できるようにしました(0.9.14+)
-  * 自動ウィンドウ開閉を行うとき、まとめて生放送のページも閉じることができます(1.0+)<br>ニコ生アラートのブラウザ起動と合わせれば、長時間のながら視聴に便利。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
+
+  * 最前面表示はWindowsでのみ有効です。<br>さらにFirefox自身がZオーダー管理、整列しているのかいまいち動作が怪しい。
+  * 自動ウィンドウ開閉を行うとき、まとめて生放送のページも閉じることができます。<br>ニコ生アラートのブラウザ起動と合わせれば、長時間のながら視聴に便利。
 
   * シングルウィンドウモードが追加されました。
   * データ保存のルールはそのままのため、ウィンドウを閉じるときに、生主か、視聴者か、オフラインかの影響を受けます。
