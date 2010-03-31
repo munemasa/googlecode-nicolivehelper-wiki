@@ -2,7 +2,7 @@
 #labels Featured
 
 更新内容のメモ書き用。旧→OldUpdateHistory
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="2" />
 
 =1.1系=
 
