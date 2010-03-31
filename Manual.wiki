@@ -239,11 +239,14 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/commentreflection.png
 
 
   * コメントの流れが速いときでも登録できるよう、コメントタブ下部に設定用の領域があります。
-  * 登録したコテハンの削除は、ここで、DELキーを押してください。(Macだとfn+DEL)<br>削除用のコンテキストメニューがないのはただの手抜き。
+  * 登録したコテハンの削除は、ここで、DELキーを押してください。(Macだとfn+DEL)
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment.png
 
   * ↓(1.1+はこちら)↓
+  * ユーザIDベースの操作をNGユーザ解除以外でも行えるように改修。
+  * コテハン設定削除を、DELキーだけでなくコンテキストメニューからも可能に。
+  * 「自動コテハン登録」などは`NicoLive Helper`本体の機能ではなく追加機能です。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment3.png
 
