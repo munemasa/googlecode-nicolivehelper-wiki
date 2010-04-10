@@ -488,6 +488,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 
   * 設定内容が変わると、設定内容の変化を検出して、設定を読み込みし直します。それに合わせて、スクリプトもロードするので、その辺の適当な設定項目を変更してOKボタンすれば、その場で、スクリプトの変更が反映されます。<br>Macのプリファレンスシステムのデフォルトだと、値を変更するとすぐに保存されるので、その辺のチェックボタンをOFF/ONするだけでいいのかな。
 
+===Twitter===
+Twitterにつぶやくことができます。
+
+  * `NicoLive Helper`自身で直接つぶやくか、ニコニコ生放送のつぶやき機能を使うか、選択します。
+  * 直接つぶやく場合は、Twitterアカウントの認証を行って下さい。<br>ニコ生を利用する場合は、ニコニコ生放送側でTwitter認証を行って下さい。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_twittersetting.png
 
 == 連続コメント ==
 歌詞コメ用に用意したもの。
