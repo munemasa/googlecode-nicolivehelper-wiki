@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 1.1.1)=
+=Manual (version 1.1.2)=
 <wiki:toc max_depth="4" />
 
-1.1.1用 *簡易* マニュアルです。
+1.1.2用 *簡易* マニュアルです。
 
 
 ==特徴==
@@ -205,7 +205,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
 
   * 動画IDにカーソルを持って行くと、動画のブログ貼り付け用の表示がカーソル位置付近に現れます。
   * 「`>>開始コメ番-終了コメ番@受付個数`」の形式が主コメに含まれていればOK
-  * 有効なアンカー<br>「`>>35-`」コメ番35番以降<br>「`>>35-50`」コメ番35-50番<br>「`>>35-@5`」コメ番35番以降、リク5個まで
+  * 有効なアンカー例：<br>「`>>35-`」コメ番35番以降全て<br>「`>>35-50`」コメ番35-50番<br>「`>>35-@5`」コメ番35番以降5個まで
   * そういえば「`>>35-`」で始めたアンカー指定を停止させる手段がなかったな…。
   * アンカー指定でのリク受け付けは「リクエスト拒否」の状態でのみ行われます
   * アンカー指定中は「受け付けました」の自動応答はありません。ただし、受け付けエラーは自動応答します。
@@ -216,6 +216,13 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_newhistory.png
   * OS側で持つコンポーネントの色選択ではないので、背景色に選べる色はこんな感じ。
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
+
+===JASRAC,e-Licenseコード検索===
+
+JASRACコード、e-Licenseコードを範囲選択(おおざっぱでOK)しポップアップメニューを開くと、
+ブラウザにタブを追加し、指定管理コードの検索結果を表示します。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/jasrac-code.png
 
 
 ===コメントリフレクション===
