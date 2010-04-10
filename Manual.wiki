@@ -1,10 +1,10 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 1.1)=
+=Manual (version 1.1.1)=
 <wiki:toc max_depth="4" />
 
-1.1用 *簡易* マニュアルです。
+1.1.1用 *簡易* マニュアルです。
 
 
 ==特徴==
