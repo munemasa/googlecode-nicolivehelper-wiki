@@ -494,6 +494,8 @@ Twitterにつぶやくことができます。
   * `NicoLive Helper`自身で直接つぶやくか、ニコニコ生放送のつぶやき機能を使うか、選択します。
   * 直接つぶやく場合は、Twitterアカウントの認証を行って下さい。<br>ニコ生を利用する場合は、ニコニコ生放送側でTwitter認証を行って下さい。
 
+  * CTRL+T でどこからでもつぶやくことができます。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_twittersetting.png
 
 == 連続コメント ==
