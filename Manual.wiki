@@ -2,10 +2,10 @@
 #labels Featured
 
 =Manual (version 1.1.2)=
-<wiki:toc max_depth="4" />
-
 1.1.2用 *簡易* マニュアルです。
+初めてインストールした場合、ここに飛ばされます。
 
+<wiki:toc max_depth="4" />
 
 ==特徴==
 
