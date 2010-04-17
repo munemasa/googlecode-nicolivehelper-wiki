@@ -23,9 +23,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-windowsxp.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-snowleopard.png
 
-http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-mac1.png
-http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/sample-mac2.png
-
 ==Windows 7(English ver.) on VMware==
 
   * 英語版なのでフォントがメイリオじゃなくて、MS UIゴシックかな…？
