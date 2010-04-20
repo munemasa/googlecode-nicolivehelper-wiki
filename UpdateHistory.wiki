@@ -5,6 +5,8 @@
 <wiki:toc max_depth="2" />
 
 =1.1系=
+
+==Current==
   * 使用頻度の低いコマンドメニュー項目を「その他」でグルーピング。
   * 「Automatic Broadcasting(Experimental)」を用意。<br>ただし、`NicoLive Helper`本体には枠取り機能は持たせていないので、別途、枠鳥Fを用意し、現在のニコ生と`NicoLive Helper`の仕様に合わせて改造する必要があり(枠鳥Fベースではなく、新規作成するのもよし)。試験運用に使っている枠鳥F改は、初音ミクのライブ関係者のみ配布にしましょうかね。
 
