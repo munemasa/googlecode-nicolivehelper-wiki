@@ -8,7 +8,7 @@
 
 ==Current==
   * 使用頻度の低いコマンドメニュー項目を「その他」でグルーピング。
-  * 「Automatic Broadcasting(Experimental)」を用意。<br>ただし、`NicoLive Helper`本体には枠取り機能は持たせていないので、別途、枠鳥Fを用意し、現在のニコ生と`NicoLive Helper`の仕様に合わせて改造する必要があり(枠鳥Fベースではなく、新規作成するのもよし)。試験運用に使っている枠鳥F改は、初音ミクのライブ関係者のみ配布にしましょうかね。
+  * 設定で自動でウィンドウを閉じるを選択してある場合、枠終了時に枠取り画面に自動で飛ばす「Automatic Broadcasting(Experimental)」を用意。<br>`NicoLive Helper`本体には以降の枠取り操作を自動化する機能は持っていない。
 
 ==1.1.5==
   * Mac向けにツールバー用のCSS記述を追加。
