@@ -8,7 +8,7 @@
 
 ==Current==
   * 使用頻度の低いコマンドメニュー項目を「その他」でグルーピング。
-  * 設定で自動でウィンドウを閉じるを選択してある場合、枠終了時に枠取り画面に自動で飛ばす「Automatic Broadcasting(Experimental)」を用意。<br>`NicoLive Helper`本体には以降の枠取り操作を自動化する機能は持っていない。
+  * 設定で自動でウィンドウを閉じるを選択してある場合、枠終了時に枠取り画面に自動で飛ばす「Automatic Broadcasting(Experimental)」を用意。<br>ただし`NicoLive Helper`本体には枠取り操作を自動化する機能は持っていない。
 
 ==1.1.5==
   * Mac向けにツールバー用のCSS記述を追加。
