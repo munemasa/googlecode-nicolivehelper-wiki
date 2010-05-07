@@ -8,7 +8,7 @@
 
 ==Current==
   * 使用頻度の低いコマンドメニュー項目を「その他」でグルーピング。
-  * 設定にて「自動でウィンドウを閉じる」を選択してある場合、枠終了時に`greasemonkey.scriptvals.http://miku39.jp/nicolivehelper/WakutoriF modified.WakutoriFMode`を 1 にセットし、枠取り画面に自動で飛ばす「Automatic Broadcasting(Experimental)」を用意。<br>`NicoLive Helper`本体には枠取り操作を自動化する機能は持っていないため、Greasemonkeyスクリプトによって自動枠取りを行う必要がある。
+  * 設定にて「自動でウィンドウを閉じる」を選択してある場合、枠終了時にabout:configの`greasemonkey.scriptvals.http://miku39.jp/nicolivehelper/WakutoriF modified.WakutoriFMode`を 1 にセットし、枠取り画面に自動で飛ばす「Automatic Broadcasting(Experimental)」を用意。<br>`NicoLive Helper`本体には枠取り操作を自動化する機能は持っていないため、Greasemonkeyスクリプト等によって自動枠取りを行う必要がある。
   * ストック追加時も、リクエスト縛りや生放送での引用許可なしなどで追加できなかったときに、リク・再生エラータブに対象の動画を追加するように。
   * name属性を持ったコメントの場合、ID欄のところにその名前を使用するように。
 
