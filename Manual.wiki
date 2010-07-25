@@ -233,6 +233,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_comment_menu2.png
 JASRACコード、e-Licenseコードを範囲選択(おおざっぱでOK)しポップアップメニューを開くと、
 ブラウザにタブを追加し、指定管理コードの検索結果を表示します。
 
+  * 0xx-xxxx-x がNGに引っかかってしまうため、0xx=xxxx=x や 0xx/xxxx/x で代用することもできます。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/jasrac-code.png
 
 
