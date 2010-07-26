@@ -547,6 +547,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ストックの再生ボタンを押すと、ニコニコ動画でその動画を再生します。<br>
 以降、ストックの最後に向かって、連続で再生します。
 
+3.6.4あたりで実装されたOut of Process Pluginの影響か、よく動作しなくなります。
+
 
 == 運営コメントのマクロ ==
 
