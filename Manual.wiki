@@ -617,6 +617,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 
 ==Windows Live Messengerとの連携==
 
+*1.11.12からなくなります*
+
 Helperを起動すると、Windows Live Messengerの再生中楽曲表示部分に、生放送の番組名を表示します。
 
   * 当然Windows専用の機能
