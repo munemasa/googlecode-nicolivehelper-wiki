@@ -528,6 +528,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_twittersetting.pn
 
   * 運営コメント設定で指定されたフォルダにあるテキストファイル(.txt)をリストメニューで選択して、テキストボックスに読み込むことが出来ます。
   * テキストファイルをドロップしても読み込みます。
+  * 文字コードはUTF-8です。
 
   * 「\n」で改行を仕込むことが出来ます。(1.0beta4)<br>「\\」で「\」記号になります。
 
@@ -618,7 +619,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 
 ==Windows Live Messengerとの連携==
 
-*1.11.12からなくなります*
+*1.11.12でなくなりました*
 
 Helperを起動すると、Windows Live Messengerの再生中楽曲表示部分に、生放送の番組名を表示します。
 
