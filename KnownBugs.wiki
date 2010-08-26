@@ -1,4 +1,5 @@
 #summary Known bugs.
+#labels Featured
 
 = Known Bugs(既知のバグ) =
 
