@@ -623,16 +623,6 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||info.restrict.numberofrequests||1人あたりのリクエスト受け付け最大数||
 
 
-==Windows Live Messengerとの連携==
-
-*1.11.12でなくなりました*
-
-Helperを起動すると、Windows Live Messengerの再生中楽曲表示部分に、生放送の番組名を表示します。
-
-  * 当然Windows専用の機能
-
-http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/windowslivemessenger.png
-
 ==JSONファイルについて==
 
 *{ "sm9": value, "sm10": value, "sm11": value }*<br>
@@ -654,10 +644,12 @@ APIで取得できる動画の再生時間と、実際に再生したときの�
 Automatic Broadcastingモードで行うのは、以下の3つです。
 
   * 生放送に接続すると、配信開始を自動で行います。
-  * 接続後、ジングル＞リク＞ストックの優先で、必ず動画を再生開始します。以後は通常通りに進行。
+  * 接続後、ジングル＞リク＞ストックの優先で、必ず動画を再生開始します。以後は通常通りに進行。(通常はジングル再生か、何か再生ボタンを押すまでは再生開始しない)
   * 放送終了時に自動でウィンドウを閉じる設定になっている場合、自動ウィンドウクローズを行う時に、about:configの「`greasemonkey.scriptvals.http://miku39.jp/nicolivehelper/WakutoriF modified.WakutoriFMode`」を 1 にセットし、新規番組登録画面(現在の番組を再利用する)にジャンプします。
 
-足りない部分はどうするの？という質問へは、現初音ミクのライブ関係者(判断基準は通常のPart#枠を不定期でもやっていると自分が認識している生主)にのみにお答えするということで(ミクライブ生主特典)。
+あとは、Greasemonkeyスクリプト等で枠取りを自動化するなど。自分は枠鳥Fを待ち行列仕様に改造したものを使用。
+
+枠鳥F改造版などは元のライセンスがはっきりしていないプログラムなので、現初音ミクのライブ関係者(判断基準は通常のPart#枠を不定期でもやっていると自分が認識している生主)にのみにｺｯｿﾘお渡しするということで(ミクライブ生主特典)。
 
 
 ==Tips and Q&A==
