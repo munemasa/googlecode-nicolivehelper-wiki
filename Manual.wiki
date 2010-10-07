@@ -581,6 +581,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||CTRL+T||Twitterでつぶやく||
 ||CTRL+W||ウィンドウを閉じる||
 ||CTRL+R||再接続を行う||
+||CTRL+B||バックステージパスコメントを利用してコメントする(放送主のみ/1.1.18+)||
 
 
 == プレイリスト(おまけ) ==
