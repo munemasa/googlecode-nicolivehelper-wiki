@@ -312,6 +312,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_moviedb.png
 
   * 動画DBにない動画をリストに追加した場合、動画DBにその動画情報が追加されます。<br>また、動画DBを引用する手前、DBへ新規にデータ追加が必要となる場合には即座にリストに反映されない場合があります。その場合はリストの選択し直し等で。
 
+  * ドラッグ＆ドロップで動画の移動・コピーができます。<br>通常D&D：移動、CTRL押しながらD&D：コピー<br>Macだとどうキーアサインになるんだろう…。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_folderdb.png
 
 
