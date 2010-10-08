@@ -730,6 +730,7 @@ Automatic Broadcastingモードで行うのは、以下の3つです。
 それ以外の動画DBやP名設定などは、
 
   * Windows Vistaの場合(例)<br>`C:\Users\ユーザー名\AppData\Roaming\Mozilla\Firefox\Profiles\プロファイル名\nicolivehelper_miku39jp.sqlite`
+  * Mac OS Xの場合<br>`/User/ユーザ名/Library/Application Support/Firefox/Profiles/プロファイル名/nicolivehelper_miku39jp.sqlite`
 
 
 ===ウィンドウ座標をデフォルトに戻す===
