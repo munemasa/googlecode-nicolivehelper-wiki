@@ -579,7 +579,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||F3  ||次の動画を検索(CTRL+Fで検索した後)||
 ||CTRL+F||リクエスト・ストックを検索する||
 ||CTRL+M||現在再生中の動画をとりあえずマイリストする||
-||CTRL+T||Twitterでつぶやく||
+||CTRL+T||Twitterでつぶやく(NicoLiveHelperから直接つぶやくので、設定から認証が必要)||
 ||CTRL+W||ウィンドウを閉じる||
 ||CTRL+R||再接続を行う||
 ||CTRL+B||バックステージパスコメントを利用してコメントする(放送主のみ/1.1.18+)||
