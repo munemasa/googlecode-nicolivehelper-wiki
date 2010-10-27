@@ -16,7 +16,7 @@
 
 ==特徴==
 
-  * Firefox Extensionのため、Firefox3.5以降が移植されている環境であれば、いかなる環境でも動作します。<br>Win,Mac,Linux(Ubuntu),Solarisで確認済み。
+  * Firefox Extensionのため、Firefox3.5以降が移植されている環境であれば、いかなる環境でも動作します。<br>Win,Mac,Linux(Debian squeeze,lenny/Ubuntu),Solarisで確認済み。
 
 他のツールにはない特徴として、
 
