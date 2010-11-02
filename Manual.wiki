@@ -708,6 +708,19 @@ Automatic Broadcastingモードで行うのは、以下の3つです。
 
 それでもダメなようでしたら、使用環境を添えてIssueかニコニコミュニティの掲示板へ。
 
+===DBアクセスに失敗する場合===
+
+動画データベースにはFirefoxを終了させても永続するデータも保存されています。
+動画DBの仕様自体はバージョン1.1.1（最近機能追加したフォルダDBもこの段階で実装済み）くらいから変わっていないのですが、
+最近たびたびファイル破損による動作不良を耳にしています。
+
+SQLiteのデータベースファイルを復旧(repair,recovery)するツールを使用することもできると思いますが、そういったことを行うのが難しい場合、以下のデータベースファイルを削除することで、問題は解決すると思います。
+ただし、動画DBに登録してあったり、記録されていたデータはなくなります(つд・)
+
+  * Windows Vistaの場合(例)<br>`C:\Users\ユーザー名\AppData\Roaming\Mozilla\Firefox\Profiles\プロファイル名\nicolivehelper_miku39jp.sqlite`
+  * Mac OS Xの場合<br>`/User/ユーザ名/Library/Application Support/Firefox/Profiles/プロファイル名/nicolivehelper_miku39jp.sqlite`
+
+
 ===ジングル動画の動画情報送信を止めたい===
 
   * 「動画IDをコメント欄に直接入力して再生した場合、その動画情報を主コメしない」をチェック。
