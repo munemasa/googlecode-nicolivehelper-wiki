@@ -720,6 +720,10 @@ SQLiteのデータベースファイルを復旧(repair,recovery)するツール
   * Windows Vistaの場合(例)<br>`C:\Users\ユーザー名\AppData\Roaming\Mozilla\Firefox\Profiles\プロファイル名\nicolivehelper_miku39jp.sqlite`
   * Mac OS Xの場合<br>`/User/ユーザ名/Library/Application Support/Firefox/Profiles/プロファイル名/nicolivehelper_miku39jp.sqlite`
 
+また、使用OS、使用ストレージデバイス(HDD/SSD/USBメモリ/RAMディスク等)とその空き容量、
+Firefoxのバージョン番号、あと気になることはPCの終了のさせ方(スリープ、サスペンド、電源OFF)あたりが気になるので、報告してもらえるとありがたいかも。
+
+（ぶっちゃけデータベースのACID性はSQLite、つまりファイルシステムに頼っているので、リペアツール使うか、削除して作り直すかの以外ではこちらでは対処不能の可能性大）
 
 ===ジングル動画の動画情報送信を止めたい===
 
