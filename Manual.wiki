@@ -120,7 +120,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
 ||次枠へ||現在の番組を再利用して、新規番組登録ページに移動します||
 ||その他||使用頻度の低いと思われるものをまとめています||
 ||　放送ID(lvXXXXX)を入力して接続||放送IDであるlvXXXXXを直接指定して接続します。URL丸々コピペで大丈夫です。||
-||　Automatic Broadcasting||このメニューにチェックすると、生放送に接続すると同時に放送開始を行います。放送終了時(/disconnect受信時)またはロスタイム2分経過した後、次枠獲得のため新規番組登録ページへジャンプします。このとき、about:configの「`greasemonkey.scriptvals.http://miku39.jp/nicolivehelper/WakutoriF modified.WakutoriFMode`」を 1 にセットします。||
+||　Automatic Broadcasting||このメニューにチェックすると、生放送に接続すると同時に放送開始を行います。自動ジングル再生がなかった場合、放送開始30秒後にリク＞ストックの優先で動画を再生開始します。放送終了時(/disconnect受信時)またはロスタイム2分経過した後、次枠獲得のため新規番組登録ページへジャンプします。このとき、about:configの「`greasemonkey.scriptvals.http://miku39.jp/nicolivehelper/WakutoriF modified.WakutoriFMode`」を 1 にセットします。||
 ||　ロスタイム作成||チェックがあると、動画を視聴したままロスタイムに突入できるようにします。新旧バージョンのどちらでも使用できます(多分)。このチェックがある最中は放送終了ができません。||
 ||　無料延長を行う||予約枠で無料延長処理を行います。||
 ||　自動無料延長||チェックがあると、終了3分前になると無料延長処理を自動で行います。||
