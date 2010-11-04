@@ -8,7 +8,7 @@
 =1.1系=
 
 ==1.1.21==
-  * 設定の「動画情報」をファイルへエクスポート・インポートができるように。
+  * 設定の「動画情報」をファイルへエクスポート・インポートができるように。<br>サンプル：http://code.google.com/p/nicolivehelper/source/browse/sample-setting.txt
 
 
 ==1.1.20==
