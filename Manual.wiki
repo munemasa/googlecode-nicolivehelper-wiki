@@ -1,8 +1,8 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 1.1.18)=
-1.1.18用 *簡易* マニュアルです。
+=Manual (version 1.1.21)=
+1.1.21用 *簡易* マニュアルです。
 初めてインストールした場合、ここに飛ばされます。<br>
 1.1.5で初めて、拡張のインストール後、更新後の初回起動でページに飛ばす機能が載るので、
 1.1.5への初回アップデートに限り更新インストールでもこのページにやってきます。
@@ -389,7 +389,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 運営コメントで行う、動画情報をカスタマイズできます。
 使用できるマクロは後述で。
 
-  * 1行目から空行のところまで、8秒間隔でコメント送信します。
+  * 1行目から空行になるところまで、8秒間隔でコメント送信します。
 
   * コメ欄に動画IDを直接入力して再生したとき、動画情報を主コメしない設定は、ジングル動画の情報も出なくなります。(ジングル再生が動画ID直接入力再生と同じなので)
   * 「P名D名を自動認識しない」は、末尾にP,DのあるタグをP名として扱わなくなり、P名ホワイトリストに列挙されたP名のみをP名として認識するようになります。
@@ -408,6 +408,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_basicsettings.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_movieinfo.png
 
+  * エクスポート・インポートすることで、この動画情報設定をファイルを介して他者と共有したり、設定を保存したりすることができます。
 
 === P名ホワイトリスト ===
 
