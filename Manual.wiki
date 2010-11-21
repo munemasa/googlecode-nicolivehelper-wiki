@@ -547,6 +547,9 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_classifier.png
 
   * 下のサンプル画像の例だと、再生数99900以上10万未満の、殿堂入り目前の動画のリクエストに対して、「殿堂入り間近のためリクエストを拒否しました」と応答し、リクエストを拒否します。<br>空文字を返すと応答メッセージなしです。(運営コメント設定と同じ)
 
+
+  * 例：`if(info.view_counter<100000&&info.view_counter>99900){ ShowNotice(info.video_id+"は殿堂入り直前です"); }`<br>殿堂入り目前のリクがきたときに、通知領域で通知を行う。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.png
 
   * 設定内容が変わると、設定内容の変化を検出して、設定を読み込みし直します。それに合わせて、スクリプトもロードするので、その辺の適当な設定項目を変更してOKボタンすれば、その場で、スクリプトの変更が反映されます。<br>Macのプリファレンスシステムのデフォルトだと、値を変更するとすぐに保存されるので、その辺のチェックボタンをOFF/ONするだけでいいのかな。
