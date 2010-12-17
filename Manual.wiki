@@ -1,8 +1,8 @@
 #summary 簡易マニュアル
 #labels Featured
 
-=Manual (version 1.1.24)=
-1.1.24用 *簡易* マニュアルです。
+=Manual (version 1.1.25 not released)=
+1.1.25用 *簡易* マニュアルです。
 初めてインストールした場合、ここに飛ばされます。<br>
 1.1.5で初めて、拡張のインストール後、更新後の初回起動でページに飛ばす機能が載るので、
 1.1.5への初回アップデートに限り更新インストールでもこのページにやってきます。
@@ -485,6 +485,17 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_listenercommand.p
   * NGワード処理を有効にすると、NGワードが含まれたコメントでコメント番号がスキップした場合に、それをコメントビューに表示します。また、設定によりその際に通知を行います。
 
   * コメント入力補完プリセットは `「文字,コメント」` と、1行ずつカンマ区切りで記入します。
+
+  * コメントログファイル名で使える置換キーワードは以下。<br>ファイル名の検査は行わないので、デフォルトから変更する場合、注意。
+
+||{request_id}||放送ID||
+||{title}||番組名||
+||{year}||現在の年||
+||{month}||月||
+||{date}||日||
+||{hour}||時||
+||{min}||分||
+||{sec}||秒||
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc.png
 
