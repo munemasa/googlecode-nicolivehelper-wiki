@@ -652,6 +652,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||{json}||再生中の動画の、動画情報設定で指定した先のJSONファイルにある情報と置換します||
 ||{mylistcomment}||マイリストからストック追加した場合、再生中の動画のマイリストコメントがあれば、マイリストコメントと置換します||
 ||{pref:min-ago}||生放送の終了前 n 分通知設定の n と置換します。||
+||{progress}||プログレスバーをコメントします。 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/progress.png ||
 
   * `{additional}`は、コンテキストメニューの「追加情報設定」から設定した任意の文字列に置換します。<br>ある動画に「○○発売中！」とか登録しておけば、`{additional}`の部分が「○○発売中！」に置換されて主コメが行われます。
 
