@@ -1,0 +1,8 @@
+#summary TipHelp
+#labels Featured
+
+= Tip Help=
+
+<wiki:toc max_depth="4" />
+
+== タイムシフトに接続すると、テキスト履歴の方にプレイリストを復元します。 ==
