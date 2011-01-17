@@ -8,3 +8,4 @@
   # getthumbinfoの503対策
   # リクエストへのコード（JASRAC、e-ライセンス）処理
   # リクエスト受付方式の追加（UIも含む）
+  # IE Cookie Management (w/ Protected mode)
