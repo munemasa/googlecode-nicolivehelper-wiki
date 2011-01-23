@@ -165,6 +165,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request2.png
 
+===リクエストのJ-WID検索(1.1.26+)===
+従来は、コメントタブから作品コードを選択し、コンテキストメニューを表示することで検索していましたが、JASRACのJ-WID検索に限り、リクエストタブからも検索できるようになりました。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request3.png
+
 
 ==ストック==
 ストック(いわゆる主セレ)。マイリスト(公開マイリスト含む)からインポートできます。<br>
