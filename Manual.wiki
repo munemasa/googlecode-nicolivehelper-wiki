@@ -479,6 +479,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_startup-comment.p
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_restrict.png
 
+  * リクエストNG動画を、動画ID（sm,nm）で1行1つずつ列挙していってください。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_ngmovie.png
+
+
 === 視聴者コマンド ===
 
   * `/s /del /ver /version /dice` があります。<br>PITASEに合わせて、行頭`/`から。`@`の方は対応しない。
