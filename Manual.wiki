@@ -724,6 +724,11 @@ APIで取得できる動画の再生時間と、実際に再生したときの�
   * 「動画ID,再生時間」を列挙する。<br>例: http://code.google.com/p/nicolivehelper/source/browse/nlh_videolength.csv
   * NicoLive Helperのウィンドウを開いたときに読み込んでいるので、ウィンドウを開き直し、<br>実際にリクやストックに登録してみて再生時間が定義した通りになっているか確認する。
 
+==初音ミク(co154)専用機能==
+
+ http://183.181.4.48/~amano/co154/playlog.pl にある最近のプレイログを参照し、このリストに含まれる動画がリクエストされた場合に、特定の配色でハイライトします。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/mikulive-recentlyplayed.png
 
 ==Automatic Broadcasting(Experimental)==
 
