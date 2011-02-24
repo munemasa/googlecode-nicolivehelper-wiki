@@ -156,6 +156,21 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/toolbar.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/tab_request.png
 
+===アンカー指定===
+
+アンカー指定は、リクエスト不可中に、特別にリクエストを受け付ける「区間指定」のような形で載っています。
+そのため、アンカー指定を行うときは、リクエスト不可の状態であることが必要です。
+
+今までは、リクエスト不可状態にしたあとコメントタブから所定のフォーマットのコメントを行うことでアンカー指定を行っていましたが、リクエストタブからダイアログによって指定することが可能になります。
+アンカーを設定すると、自動でリクエスト不可状態に切り替わります（要注意）。
+
+コメント番号、リクエスト受け付け最大数は「半角数字」で、入力してください。
+
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/anchor-request.png
+
+
+
 ===リクエスト処理状態===
 
   * リクエストを受け付けて処理(動画情報取得)中かどうかを示す表示を、リクエストタブに追加しました。(1.0beta3+)
