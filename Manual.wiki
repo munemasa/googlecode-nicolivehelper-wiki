@@ -557,6 +557,20 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_window.png
 
+===放送終了前通知===
+
+通知領域
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-noticearea.png
+
+ダイアログ
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-dialog.png
+
+ポップアップ
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-popup.png
+
+情報バー
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-infobar.png
+
 
 ====動画分類(0.9.14+)====
 
