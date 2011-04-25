@@ -557,7 +557,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc2.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_window.png
 
-===放送終了前通知===
+====放送終了前通知====
 
 通知領域
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-noticearea.png
