@@ -559,16 +559,23 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_window.png
 
 ====放送終了前通知====
 
-通知領域
+以下のイメージはMac OS X 10.6によるものです。
+
+*通知領域*
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-noticearea.png
 
-ダイアログ
+*ダイアログ*
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-dialog.png
 
-ポップアップ
+*ポップアップ with Growl*
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-popup.png
 
-情報バー
+*情報バー*
+ニコニコ生放送の情報バー(正式名称は不明)を用いて通知します。
+
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/nlh-notice-infobar.png
 
 
