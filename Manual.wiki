@@ -672,6 +672,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||CTRL+R||再接続を行う||
 ||CTRL+B||バックステージパスコメントを利用してコメントする(放送主のみ/1.1.18+)||
 
+||CTRL+1～CTRL+0||左から1,2,3...番目のタブに移動する||
 
 == プレイリスト(おまけ) ==
 
