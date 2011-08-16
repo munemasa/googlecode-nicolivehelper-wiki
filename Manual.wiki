@@ -656,6 +656,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_twittersetting.pn
   * 「\n」で改行を仕込むことが出来ます。(1.0beta4)<br>「\\」で「\」記号になります。
 
   * 「/コマンド/コメント」で行単位にコマンド指定できます。(1.1.34+)<br>例：/green shita/なんとかかんとか
+  * コメント中に運営コマンドが必要な場合は、たとえば「/green//perm コメント」こんな感じになります。最初の/～/の間がコマンドとして扱われて、残りはすべてコメントになります。
 
 
 http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/continuouscomment.png
