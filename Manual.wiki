@@ -795,6 +795,11 @@ Automatic Broadcastingモードで行うのは、以下の3つです。
 
 ==外部ブラウザ==
 
+外部ブラウザのクッキーを使用しているとき、リンクを開くときに外部ブラウザを使用します。
+
+Firefoxのオプションのココで設定できるものですので、取り消したいときなどはオプションから指定してください。
+
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/externalbrowser.png
 
 
 
