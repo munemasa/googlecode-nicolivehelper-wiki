@@ -634,6 +634,10 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 
 設定→その他→スクリプトで、コメント１つ１つに対して処理可能なユーザーカスタムスクリプトの定義をする窓口を設けました。
 
+ if( chat.comment_no==100 ){ なにかする }
+
+とか書いて、適当に処理してくれればOK
+
 ||chat.no||コメント番号||
 ||chat.comment_no||コメント番号||
 ||chat.user_id||コメ主のユーザーID||
