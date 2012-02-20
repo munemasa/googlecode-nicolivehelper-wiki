@@ -632,6 +632,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 
 ====スクリプト（コメントフィルタ）====
 
+設定→その他→スクリプトで、コメント１つ１つに対して処理可能なユーザーカスタムスクリプトの定義をする窓口を設けました。
+
 ||chat.no||コメント番号||
 ||chat.comment_no||コメント番号||
 ||chat.user_id||コメ主のユーザーID||
@@ -642,6 +644,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 ||chat.mail||コマンド欄||
 ||chat.name||名前||
 ||chat.locale||言語||
+||chat.origin||日本(nicovideo.jp)からか海外(niconico.com)からかのパラメータだったはず||
 
 
 ===Twitter===
