@@ -632,6 +632,17 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 
 ====スクリプト（コメントフィルタ）====
 
+||chat.no||コメント番号||
+||chat.comment_no||コメント番号||
+||chat.user_id||コメ主のユーザーID||
+||chat.text||コメント内容||
+||chat.date||コメント日時(UNIX時間)||
+||chat.premium||生主=3 プレミアム=1 一般=0 他いくつか||
+||chat.anonymity||184かどうか||
+||chat.mail||コマンド欄||
+||chat.name||名前||
+||chat.locale||言語||
+
 
 ===Twitter===
 Twitterにつぶやくことができます。
