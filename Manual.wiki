@@ -652,6 +652,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/adv_etc_customscript.
 ||chat.locale||言語||
 ||chat.origin||日本(nicovideo.jp)からか海外(niconico.com)からかのパラメータだったはず||
 
+http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/commentfilter.png
 
 ===Twitter===
 Twitterにつぶやくことができます。
