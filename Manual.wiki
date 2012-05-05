@@ -726,6 +726,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||{length} ||再生中の動画の再生時間(mm:ssの形式)      ||
 ||{tags}   ||再生中の動画のタグ(35文字ちょいで改行される)||
 ||{pname}  ||再生中の動画のP名(D名) 不明のときは空文字 ||
+||{username}||再生中の動画の投稿者名(1.1.48+)||
 ||{id}     ||再生中の動画の動画ID        ||
 ||{description}||再生中の動画の説明文(先頭40文字まで)||
 ||{additional}||再生中の動画の個別の追加情報||
