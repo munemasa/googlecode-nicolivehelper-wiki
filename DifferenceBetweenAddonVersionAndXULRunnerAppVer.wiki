@@ -1,7 +1,8 @@
 #summary Firefoxアドオン版とXULRunner版の違い
 
-= Firefoxアドオン版とXULRunner版の違い =
+= Firefoxアドオン版とXULRunner(Win,Mac)版の違い =
 
-  * a
-  * b
-  * c
+  * Win,Mac版は、ロスタイムの自動作成ができない。
+  * Win,Mac版では、自動放送モードは機能しない。
+  * Win,Mac版には、ストックをプレイリストとして、ニコニコ動画上で連続再生する機能はない。
+  * Win,Mac版は、外部のニコ生アラート系アプリの助けなしに自動でウィンドウを開くことができない。
