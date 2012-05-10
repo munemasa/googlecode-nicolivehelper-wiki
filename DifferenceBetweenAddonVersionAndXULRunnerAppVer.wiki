@@ -2,6 +2,6 @@
 
 = Firefoxアドオン版とXULRunner版の違い =
 
-* a
-* b
-* c
+  * a
+  * b
+  * c
