@@ -1,0 +1,7 @@
+#summary Firefoxアドオン版とXULRunner版の違い
+
+= Firefoxアドオン版とXULRunner版の違い =
+
+* a
+* b
+* c
