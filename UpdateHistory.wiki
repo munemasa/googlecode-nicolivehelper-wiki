@@ -1,8 +1,10 @@
 #summary 更新内容のメモ書き
 #labels Featured
 
-更新内容のメモ書き用。旧→OldUpdateHistory
+更新内容のメモ書き用。
+1.1系→OldUpdateHistory11
 1.0系→OldUpdateHistory10
+旧→OldUpdateHistory
 <wiki:toc max_depth="2" />
 
 =1.1系=
