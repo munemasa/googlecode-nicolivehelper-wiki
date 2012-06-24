@@ -697,6 +697,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 
 ==キーボードショートカット==
 
+Win/LinuxはアクセラレータキーはCTRL、MacはCommand になるので、その辺は適当に読み替えてください。
+
 ||F5  ||リクエスト・ストックの再描画||
 ||F3  ||次の動画を検索(CTRL+Fで検索した後)||
 ||CTRL+F||リクエスト・ストックを検索する||
@@ -705,8 +707,11 @@ http://wiki.nicolivehelper.googlecode.com/hg/Manual.attach/browseroverlay.png
 ||CTRL+W||ウィンドウを閉じる||
 ||CTRL+R||再接続を行う||
 ||CTRL+B||バックステージパスコメントを利用してコメントする(放送主のみ/1.1.18+)||
+||CTRL+Z||アンドゥ||
 
 ||CTRL+1～CTRL+0||左から1,2,3...番目のタブに移動する(1.1.30+)||
+||CTRL+←||左のタブに移動する(1.1.52+)||
+||CTRL+→||右のタブに移動する(1.1.52+)||
 
 == プレイリスト(おまけ) ==
 
