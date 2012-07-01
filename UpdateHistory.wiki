@@ -8,7 +8,7 @@
 <wiki:toc max_depth="2" />
 
 =2.0系(in progress)=
-  * 内部のリファクタリング作業
+  * niconico.com対応に向けて内部の改修作業
   * Firefox 3.6～ に変更（Firefox 3.5を切り捨て）
   * 動画の追加情報設定をプロパティに移動
   * コメントログの表示行数設定を追加
