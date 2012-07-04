@@ -20,6 +20,7 @@
   * 枠取りアシスト機能追加<br>現在放送中の番組で「次枠へ」を押すと、パート番号を自動更新して次枠取りを自動で行う。<br>自動でウィンドウを開閉する設定とは相性が悪いので調整中。<br>https://cacoo.com/diagrams/1XFsRa0NhaNyjI13
   * ビルトインのP名リストは削除。
   * 人柱になりたいあなたに。 http://miku39.jp/dists/software/firefox/nicolivehelper_2.0b1.xpi
+  * HTTPオブザーバーをモジュール化
 
 =1.1系=
 
