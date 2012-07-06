@@ -4,7 +4,7 @@
 
 <wiki:toc max_depth="4" />
 
-==セットリスト切り替えを追加==
+==セットリスト切り替え==
 
 リクエストとストックにセットリスト切り替え（0-9の10個）を追加しました。
 ドロップダウンメニューから選択すると、その番号のものに切り替わります。
@@ -12,21 +12,21 @@
 http://wiki.nicolivehelper.googlecode.com/hg/img/set-list.png
 
 
-==ニコニコ動画で検索を追加==
+==ニコニコ動画で検索==
 
 テキスト選択時のポップアップメニューに、ニコニコ動画で検索を追加しました。
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/search-by-nicovideo.png
 
 
-==コメントトラッキングを追加==
+==コメントトラッキング==
 
 指定のユーザーのコメントをピックアップします。
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/comment-tracking.png
 
 
-==枠取りアシスト機能追加==
+==次枠取りアシスト==
 
 現在、自分が放送中の番組内で「次枠を自動取得」を押すと、
 タイトル名が「○○○○ Part 573」のように末尾がパート番号で終わっている場合、パート番号を＋１して、次枠取りを自動で行います。<br>
