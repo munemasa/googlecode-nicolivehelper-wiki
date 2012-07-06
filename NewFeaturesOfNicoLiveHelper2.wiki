@@ -29,8 +29,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/comment-tracking.png
 ==枠取りアシスト機能追加==
 
 現在放送中の番組で「次枠を自動取得」を押すと、
-タイトル名が「○○○○ Part 573」のように末尾がパート番号で終わっている場合、パート番号を＋１して、次枠取りを自動で行います。<br/>
-https://cacoo.com/diagrams/1XFsRa0NhaNyjI13
+タイトル名が「○○○○ Part 573」のように末尾がパート番号で終わっている場合、パート番号を＋１して、次枠取りを自動で行います。<br>
+枠取りに成功すると、次枠の放送IDをコメントします。<br>
+
+枠取りアシストのみで、放送開始は自動で行われません。<br>
+
+流れ図→https://cacoo.com/diagrams/1XFsRa0NhaNyjI13
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/auto-nextlive.png
 
