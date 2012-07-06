@@ -4,6 +4,10 @@
 
 <wiki:toc max_depth="4" />
 
+==人柱になりたいあなたへ==
+
+http://miku39.jp/dists/software/firefox/nicolivehelper_2.0b3.xpi
+
 ==セットリスト切り替え==
 
 リクエストとストックにセットリスト切り替え（0-9の10個）を追加しました。
