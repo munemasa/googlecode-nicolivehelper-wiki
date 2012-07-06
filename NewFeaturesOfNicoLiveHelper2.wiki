@@ -32,7 +32,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/comment-tracking.png
 タイトル名が「○○○○ Part 573」のように末尾がパート番号で終わっている場合、パート番号を＋１して、次枠取りを自動で行います。<br>
 枠取りに成功すると、次枠の放送IDをコメントします。<br>
 
-枠取りアシストのみで、放送開始は自動で行われません。<br>
+この機能では枠取りアシストのみで、放送開始は自動で行われません。<br>
 他人の番組である場合、次枠を自動取得は行われません。
 
 流れ図→https://cacoo.com/diagrams/1XFsRa0NhaNyjI13
@@ -41,15 +41,25 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/auto-nextlive.png
 
 ==次枠移動アシスト==
 
-ニコ生アラートを使用した、現在視聴している生放送のコミュニティの次枠を開く機能を追加しました。
+ニコ生アラート機能を使用した、現在視聴している生放送のコミュニティの次枠を開く機能を追加しました。
 
+ウィンドウ右下にある矢印記号を押すと、色付き、モノクロが切り替わります。
+ニコ生アラートサーバーには自動で接続を行います。<br>
+色付き状態の場合は、次枠が始まると自動でその放送ページを開きます。また、自動ウィンドウクローズ設定ではない場合は、そのまま自動で次枠に接続を行います。自動ウィンドウクローズ設定が行われている場合は、放送ページを開いたあと、従来通り、放送終了をトリガーにウィンドウを閉じることになります。
+
+
+次枠アシストON
 http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-on.png
+
+次枠アシストOFF
 http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-off.png
+
+また、メニューからニコ生アラートサーバーとの接続管理、簡単なアラート対象の管理を行えます。
 http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-menu.png
 
 ==Open As Textbox==
 
-コメントをテキストボックスとして開きます。
+コメントをテキストボックスとして開く、「Open As Textbox」ボタンが復活しました（バージョン0.9以来久しぶり）。
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/open-as-textbox.png
 http://wiki.nicolivehelper.googlecode.com/hg/img/comment-textbox.png
