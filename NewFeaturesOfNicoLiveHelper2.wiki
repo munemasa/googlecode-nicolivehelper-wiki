@@ -4,15 +4,32 @@
 
 <wiki:toc max_depth="4" />
 
-==リクエスト、ストックのセットリスト切り替えを追加==
+==セットリスト切り替えを追加==
+
+リクエストとストックにセットリスト切り替え（0-9の10個）を追加しました。
+ドロップダウンメニューから選択すると、その番号のものに切り替わります。
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/set-list.png
 
 
-==テキスト選択時のポップアップメニューにニコニコ動画で検索を追加==
+==ニコニコ動画で検索を追加==
+
+テキスト選択時のポップアップメニューに、ニコニコ動画で検索を追加しました。
+
+http://wiki.nicolivehelper.googlecode.com/hg/img/search-by-nicovideo.png
+
+
 ==コメントトラッキングを追加==
+
+指定のユーザーのコメントをピックアップします。
+
+http://wiki.nicolivehelper.googlecode.com/hg/img/comment-tracking.png
+
 ==枠取りアシスト機能追加==
 
-  * 現在放送中の番組で「次枠を自動取得」を押すと、パート番号を自動更新して次枠取りを自動で行う。<br>https://cacoo.com/diagrams/1XFsRa0NhaNyjI13
+現在放送中の番組で「次枠を自動取得」を押すと、パート番号を自動更新して次枠取りを自動で行います。
+https://cacoo.com/diagrams/1XFsRa0NhaNyjI13
 
-==ニコ生アラートを使用した、現在視聴している生放送のコミュニティの次枠を開く機能を追加==
+==次枠移動アシスト==
+
+ニコ生アラートを使用した、現在視聴している生放送のコミュニティの次枠を開く機能を追加しました。
