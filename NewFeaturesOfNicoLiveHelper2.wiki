@@ -30,6 +30,19 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/comment-tracking.png
 現在放送中の番組で「次枠を自動取得」を押すと、パート番号を自動更新して次枠取りを自動で行います。
 https://cacoo.com/diagrams/1XFsRa0NhaNyjI13
 
+http://wiki.nicolivehelper.googlecode.com/hg/img/auto-nextlive.png
+
 ==次枠移動アシスト==
 
 ニコ生アラートを使用した、現在視聴している生放送のコミュニティの次枠を開く機能を追加しました。
+
+http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-on.png
+http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-off.png
+http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-menu.png
+
+==Open As Textbox==
+
+コメントをテキストボックスとして開きます。
+
+http://wiki.nicolivehelper.googlecode.com/hg/img/open-as-textbox.png
+http://wiki.nicolivehelper.googlecode.com/hg/img/comment-textbox.png
