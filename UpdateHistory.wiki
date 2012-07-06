@@ -22,6 +22,7 @@
   * HTTPオブザーバーをモジュール化
   * メニュー構成を若干整理
   * 人柱になりたいあなたに。http://miku39.jp/dists/software/firefox/nicolivehelper_2.0b2.xpi
+  * ニコ生アラートを使用した、現在視聴している生放送のコミュニティの次枠自動接続を追加
 
 =1.1系=
 
