@@ -21,9 +21,10 @@
   * ビルトインのP名リストは削除。
   * HTTPオブザーバーをモジュール化
   * メニュー構成を若干整理
-  * 人柱になりたいあなたに。http://miku39.jp/dists/software/firefox/nicolivehelper_2.0b5.xpi
+  * 人柱になりたいあなたに。http://miku39.jp/dists/software/firefox/nicolivehelper_2.0b6.xpi
   * ニコ生アラートを使用した、現在視聴している生放送のコミュニティの次枠を開く機能を追加
   * セットリスト選択のところで右クリックすると、セットリスト名入力ダイアログを表示するように。
+  * 「NicoLive Helperを自動で閉じるとき、生放送ページも自動で閉じる」を、「生放送終了時に放送ページも自動で閉じる」に変更。
 
 =1.1系=
 
