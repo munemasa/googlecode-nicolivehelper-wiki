@@ -6,6 +6,7 @@
 
 ==人柱になりたいあなたへ==
 
+バグの有無関係なしに、毎日23時に自動ビルドしています。
 http://miku39.jp/dists/software/firefox/nicolivehelper.xpi
 
 こうした方がいいかもとか意見は今のうちに出しておかないと、直されないぞ。
