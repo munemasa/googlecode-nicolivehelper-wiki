@@ -6,7 +6,7 @@
 
 ==人柱になりたいあなたへ==
 
-http://miku39.jp/dists/software/firefox/nicolivehelper_2.0b7.xpi
+http://miku39.jp/dists/software/firefox/nicolivehelper.xpi
 
 こうした方がいいかもとか意見は今のうちに出しておかないと、直されないぞ。
 
