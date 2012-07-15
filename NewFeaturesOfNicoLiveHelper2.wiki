@@ -57,12 +57,12 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/auto-nextlive.png
 ニコ生アラートサーバーには自動で接続を行います。<br>
 色付き状態の場合は、次枠が始まると自動でその放送ページを開きます。また、自動ウィンドウクローズ設定ではない場合は、そのまま自動で次枠に接続を行います。自動ウィンドウクローズ設定が行われている場合は、放送ページを開いたあと、従来通り、放送終了をトリガーにウィンドウを閉じることになります。
 
-https://cacoo.com/diagrams/PtLI533qaZ73MXbw
+流れ図https://cacoo.com/diagrams/PtLI533qaZ73MXbw
 
-次枠アシストON
+次枠アシストON<br>
 http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-on.png
 
-次枠アシストOFF
+次枠アシストOFF<br>
 http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-off.png
 
 また、メニューからニコ生アラートサーバーとの接続管理、簡単なアラート対象の管理を行えます。
