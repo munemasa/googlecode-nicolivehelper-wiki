@@ -73,3 +73,8 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-menu.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/open-as-textbox.png
 http://wiki.nicolivehelper.googlecode.com/hg/img/comment-textbox.png
+
+==New Macros==
+
+||{live-id}  ||放送ID||
+||{live-title}||番組名||
