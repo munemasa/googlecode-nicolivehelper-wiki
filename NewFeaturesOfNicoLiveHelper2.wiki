@@ -78,3 +78,4 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/comment-textbox.png
 
 ||{live-id}  ||放送ID||
 ||{live-title}||番組名||
+||{hashtag}||放送のTwitterハッシュタグ||
