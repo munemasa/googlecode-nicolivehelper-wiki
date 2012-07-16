@@ -13,9 +13,9 @@ http://miku39.jp/dists/software/firefox/nicolivehelper.xpi
 
 ==ダウンロード==
 
-http://miku39.jp/dists/software/firefox/nicolivehelper_2.0.xpi (Firefox Extension)
-http://miku39.jp/dists/software/firefox/nicolivehelper-xulapp_2.0beta.zip (Win)
-http://miku39.jp/dists/software/firefox/NicoLiveHelper_2.0beta.pkg (Mac)
+http://miku39.jp/dists/software/firefox/nicolivehelper_2.0.xpi (Firefox Extension)<br>
+http://miku39.jp/dists/software/firefox/nicolivehelper-xulapp_2.0beta.zip (Win)<br>
+http://miku39.jp/dists/software/firefox/NicoLiveHelper_2.0beta.pkg (Mac)<br>
 
 
 ==セットリスト切り替え==
