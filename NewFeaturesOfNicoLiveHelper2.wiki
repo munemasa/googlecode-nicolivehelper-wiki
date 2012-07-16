@@ -4,12 +4,18 @@
 
 <wiki:toc max_depth="4" />
 
-==人柱になりたいあなたへ==
+==Nightly Build==
 
 バグの有無関係なしに、毎日23時に自動ビルドしています。
 http://miku39.jp/dists/software/firefox/nicolivehelper.xpi
 
 こうした方がいいかもとか意見は今のうちに出しておかないと、直されないぞ。
+
+==ダウンロード==
+
+http://miku39.jp/dists/software/firefox/nicolivehelper_2.0.xpi (Firefox Extension)
+http://miku39.jp/dists/software/firefox/nicolivehelper-xulapp_2.0beta.zip (Win)
+http://miku39.jp/dists/software/firefox/NicoLiveHelper_2.0beta.pkg (Mac)
 
 
 ==セットリスト切り替え==
