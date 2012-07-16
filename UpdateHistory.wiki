@@ -8,6 +8,9 @@
 <wiki:toc max_depth="2" />
 
 =2.0系(in progress)=
+
+==2.0==
+
 [NewFeaturesOfNicoLiveHelper2]
   * niconico.com対応に向けて内部の改修作業
   * Firefox 3.6～ に変更（Firefox 3.5を切り捨て）
