@@ -7,7 +7,7 @@
 旧→OldUpdateHistory
 <wiki:toc max_depth="2" />
 
-=2.0系(in progress)=
+=2.0系=
 
 =2.0=
 
