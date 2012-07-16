@@ -9,7 +9,7 @@
 
 =2.0系(in progress)=
 
-==2.0==
+=2.0=
 
 [NewFeaturesOfNicoLiveHelper2]
   * niconico.com対応に向けて内部の改修作業
