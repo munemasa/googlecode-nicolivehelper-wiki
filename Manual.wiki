@@ -1,6 +1,9 @@
 #summary 簡易マニュアル
 #labels Featured
 
+新しいマニュアルサイトはこちら。<br>
+http://miku39.jp/nicolive/nicolivehelper/man/
+
 =Manual (version 1.1.49)=
 1.1.45用 *簡易* マニュアルです。
 初めてインストールした場合、ここに飛ばされます。<br>
