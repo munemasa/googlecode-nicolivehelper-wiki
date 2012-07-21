@@ -36,7 +36,7 @@
   * CTRL+O に放送IDを入力して接続をアサイン
   * Safariのクッキー共有設定時、放送IDを入力して接続ダイアログに、Safariで現在見ているページのURLを自動入力(Mac版のみ)
 
-==セットリスト切り替え==
+===セットリスト切り替え===
 
 リクエストとストックにセットリスト切り替え（0-9の10個）を追加しました。
 ドロップダウンメニューから選択すると、その番号のものに切り替わります。
@@ -46,21 +46,21 @@
 http://wiki.nicolivehelper.googlecode.com/hg/img/set-list.png
 
 
-==ニコニコ動画で検索==
+===ニコニコ動画で検索===
 
 テキスト選択時のポップアップメニューに、ニコニコ動画で検索を追加しました。
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/search-by-nicovideo.png
 
 
-==コメントトラッキング==
+===コメントトラッキング===
 
 指定のユーザーのコメントをピックアップします。
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/comment-tracking.png
 
 
-==次枠取りアシスト==
+===次枠取りアシスト===
 
 現在、自分が放送中の番組内で「次枠を自動取得」を押すと、
 タイトル名が「○○○○ Part 573」のように末尾がパート番号で終わっている場合、パート番号を＋１して、次枠取りを自動で行います。<br>
@@ -73,7 +73,7 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/comment-tracking.png
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/auto-nextlive.png
 
-==次枠移動アシスト==
+===次枠移動アシスト===
 
 ニコ生アラート機能を使用した、現在視聴している生放送のコミュニティの次枠を開く機能を追加しました。
 
@@ -92,14 +92,14 @@ http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-off.png
 また、メニューからニコ生アラートサーバーとの接続管理、簡単なアラート対象の管理を行えます。
 http://wiki.nicolivehelper.googlecode.com/hg/img/nicoalert-menu.png
 
-==Open As Textbox==
+===Open As Textbox===
 
 コメントをテキストボックスとして開く、「Open As Textbox」ボタンが復活しました（バージョン0.9以来久しぶり）。
 
 http://wiki.nicolivehelper.googlecode.com/hg/img/open-as-textbox.png
 http://wiki.nicolivehelper.googlecode.com/hg/img/comment-textbox.png
 
-==New Macros==
+===New Macros===
 
 ||{live-id}  ||放送ID||
 ||{live-title}||番組名||
