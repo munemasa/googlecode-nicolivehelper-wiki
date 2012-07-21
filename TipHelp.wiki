@@ -1,6 +1,0 @@
-#summary TipHelp
-#labels Featured
-
-= Tip Help=
-
-  * タイムシフトに接続すると、テキスト履歴の方にプレイリストを復元します
