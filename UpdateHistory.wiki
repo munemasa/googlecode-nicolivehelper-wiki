@@ -1,8 +1,7 @@
 #summary 更新内容のメモ書き
 #labels Featured
 
-更新内容のメモ書き用。
-
+更新内容のメモ書き用。<br>
 1.1～1.1.53→OldUpdateHistory11<br>
 1.0～1.0.7→OldUpdateHistory10<br>
 0.1～1.0→OldUpdateHistory<br>
