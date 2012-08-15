@@ -8,7 +8,7 @@
 
 <wiki:toc max_depth="2" />
 
-=2.0系=
+=2.x系=
 
 新しいマニュアルサイトはこちら。<br>
 http://miku39.jp/nicolive/nicolivehelper/man/
