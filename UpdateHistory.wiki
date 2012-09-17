@@ -14,6 +14,8 @@
 http://miku39.jp/nicolive/nicolivehelper/man/
 
 ==2.x.y==
+
+==2.1.4==
   * アンケートの履歴を取って再利用できるように。
 
 ==2.1.3==
