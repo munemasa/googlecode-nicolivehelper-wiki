@@ -13,6 +13,8 @@
 新しいマニュアルサイトはこちら。<br>
 http://miku39.jp/nicolive/nicolivehelper/man/
 
+=2.1.7==
+  * Twitter API 1.1に対応
 
 ==2.1.6==
   * 台湾タグにdomain="jp"が付いてくるので、とりあえず対策（2.1.6.1）
