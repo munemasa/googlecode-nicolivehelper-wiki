@@ -13,7 +13,7 @@
 新しいマニュアルサイトはこちら。<br>
 http://miku39.jp/nicolive/nicolivehelper/man/
 
-=2.1.7==
+==2.1.7==
   * Twitter API 1.1に対応
 
 ==2.1.6==
