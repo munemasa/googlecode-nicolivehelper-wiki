@@ -13,6 +13,10 @@
 新しいマニュアルサイトはこちら。<br>
 http://miku39.jp/nicolive/nicolivehelper/man/
 
+==2.1.8==
+  * 海外からの視聴者コメントに対応
+  * 自貼り判定に「自」と「関」を追加
+
 ==2.1.7==
   * Twitter API 1.1に対応
 
